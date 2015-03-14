@@ -5819,7 +5819,8 @@ body.boxed #scroll-to-top {
   position: relative;
   z-index: 1000; }
   #header .navbar {
-    height: 90px; }
+    height: 90px; 
+    font-size: 22px; }
   #header .navbar-default.navbar-collapsed-sm {
     border: none;
     background: none;
