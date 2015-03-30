@@ -6942,7 +6942,8 @@ pre {
     padding: 30px; }
     .panel.panel-image .panel-body p {
       color: #676f7a;
-      line-height: 22px;
+      line-height: 24px;
+      font-size: 16px;
       margin: 0; }
     .panel.panel-image .panel-body .panel-title {
       font-weight: 500;
