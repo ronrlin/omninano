@@ -318,7 +318,6 @@
         </div>
       </div>
       <footer id='footer'>
-        <div id='footer-main'>
         <?php include 'footer.php' ?>
         <div id='footer-copyright'>
           <div class='container'>
