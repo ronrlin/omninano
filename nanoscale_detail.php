@@ -32,78 +32,7 @@
   <body class=''>
     <div id='wrapper'>
       <header id='header'>
-        <div class='container'>
-          <nav class='navbar navbar-collapsed-sm navbar-default' id='nav' role='navigation'>
-            <div class='navbar-header'>
-              <button class='navbar-toggle' data-target='.navbar-header-collapse' data-toggle='collapse' type='button'>
-                <span class='sr-only'>Toggle navigation</span>
-                <span class='icon-bar'></span>
-                <span class='icon-bar'></span>
-                <span class='icon-bar'></span>
-              </button>
-              <a class='navbar-brand' href='index.html'>
-                <img alt="Jednotka" width="117" height="39" src="assets/images/omni-logo.png" />
-              </a>
-            </div>
-            <div class='collapse navbar-collapse navbar-header-collapse'>
-              <ul class='nav navbar-nav navbar-right'>
-                <li class='dropdown'>
-                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='educators.html'>
-                    <span>
-                      For Educators
-                      <i class='fa-icon-angle-down'></i>
-                    </span>
-                  </a>
-                  <ul class='dropdown-menu' role='menu'>
-                    <li class=''>
-                      <a href='educators.html'>Discover Program</a>
-                    </li>
-                    <li class=''>
-                      <a href='educators.html'>Bridges Program</a>
-                    </li>
-                    <li class=''>
-                      <a href='educators.html'>The Curriculum</a>
-                    </li>
-                    <li>
-                      <a href='faq.html'>FAQ</a>
-                    </li>
-                  </ul>
-                </li>
-                <li class='dropdown'>
-                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='syllabus.html'>
-                    <span>
-                      For Students
-                      <i class='fa-icon-angle-down'></i>
-                    </span>
-                  </a>
-                  <ul class='dropdown-menu' role='menu'>
-                    <li class=''>
-                      <a href='syllabus.html'>Course Syllabus</a>
-                    </li>
-                  </ul>
-                </li>
-                <li class='dropdown'>
-                  <a href='donate.html'>
-                    <span>
-                      Donate
-                    </span>
-                  </a>
-                  <ul class='dropdown-menu' role='menu'>
-                    <li class=''>
-                      <a href='blog_small.html'>Small image</a>
-                    </li>
-                    <li class=''>
-                      <a href='blog_large.html'>Large image</a>
-                    </li>
-                    <li class=''>
-                      <a href='blog_single_post.html'>Single post</a>
-                    </li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </nav>
-        </div>
+        <?php include "header.php" ?>
       </header>
       <div id='main' role='main'>
         <div id='main-content-header'>
