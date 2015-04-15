@@ -41,14 +41,14 @@
                 <span class='icon-bar'></span>
                 <span class='icon-bar'></span>
               </button>
-              <a class='navbar-brand' href='index.html'>
+              <a class='navbar-brand' href='index.php'>
                 <img alt="Omni Nano" width="117" height="39" src="assets/images/omni-logo.png" />
               </a>
             </div>
             <div class='collapse navbar-collapse navbar-header-collapse'>
               <ul class='nav navbar-nav navbar-right'>
                 <li class='dropdown'>
-                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='educators.html'>
+                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='educators.php'>
                     <span>
                       For Educators
                       <i class='fa-icon-angle-down'></i>
@@ -56,21 +56,21 @@
                   </a>
                   <ul class='dropdown-menu' role='menu'>
                     <li class=''>
-                      <a href='educators.html'>Discover Program</a>
+                      <a href='educators.php'>Discover Program</a>
                     </li>
                     <li class=''>
-                      <a href='educators.html'>Bridges Program</a>
+                      <a href='educators.php'>Bridges Program</a>
                     </li>
                     <li class=''>
-                      <a href='educators.html'>The Curriculum</a>
+                      <a href='educators.php'>The Curriculum</a>
                     </li>
 <!--                    <li>
-                      <a href='faq.html'>FAQ</a>
+                      <a href='faq.php'>FAQ</a>
                     </li> -->
                   </ul>
                 </li>
                 <li class='dropdown'>
-                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='syllabus.html'>
+                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='syllabus.php'>
                     <span>
                       For Students
                       <i class='fa-icon-angle-down'></i>
@@ -78,12 +78,12 @@
                   </a>
                   <ul class='dropdown-menu' role='menu'>
                     <li class=''>
-                      <a href='syllabus.html'>Course Syllabus</a>
+                      <a href='syllabus.php'>Course Syllabus</a>
                     </li>
                   </ul>
                 </li>
                 <li class='dropdown'>
-                  <a href='donate.html'>
+                  <a href='donate.php'>
                     <span>
                       Donate
                     </span>
@@ -122,7 +122,7 @@
             </div>
             <div class='row portfolio-boxes' id='portfolio-container'>
               <div class='col-sm-4 portfolio-box portfolio-filter-photography portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="360" height="235" src="assets/images/demo/portfolio/1.jpg" />
@@ -132,7 +132,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-webdesign portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Malesuada" width="360" height="235" src="assets/images/demo/portfolio/2.jpg" />
@@ -142,7 +142,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-identity portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Dictum vulputate" width="360" height="235" src="assets/images/demo/portfolio/3.jpg" />
@@ -152,7 +152,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-marketing portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Semper massa" width="360" height="235" src="assets/images/demo/portfolio/4.jpg" />
@@ -162,7 +162,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-photography portfolio-filter-webdesign portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Lorem ipsum" width="360" height="235" src="assets/images/demo/portfolio/5.jpg" />
@@ -172,7 +172,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-identity portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Pellentesque" width="360" height="235" src="assets/images/demo/portfolio/6.jpg" />
@@ -182,7 +182,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-webdesign portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Malesuada" width="360" height="235" src="assets/images/demo/portfolio/7.jpg" />
@@ -192,7 +192,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-marketing portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Cullamcorper" width="360" height="235" src="assets/images/demo/portfolio/8.jpg" />
@@ -202,7 +202,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-identity portfolio-filter-marketing portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Etiam posuere" width="360" height="235" src="assets/images/demo/portfolio/9.jpg" />
@@ -233,36 +233,36 @@
               <div class='col-md-3 col-sm-6 info-box'>
                 <h2 class='title'>For Educators</h2>
                 <div>
-                  <p><a href="educators.html">Discover Program</a></p>
-                  <p><a href="educators.html">Bridges Program</a></p>
-                  <p><a href="educators.html">The Curriculum</a></p>
-                  <p><a href="testimonials.html">Testimonials</a></p>                  
+                  <p><a href="educators.php">Discover Program</a></p>
+                  <p><a href="educators.php">Bridges Program</a></p>
+                  <p><a href="educators.php">The Curriculum</a></p>
+                  <p><a href="testimonials.php">Testimonials</a></p>                  
                 </div>
                 <h2 class='title'>Media Relations</h2>
                 <div>
-                  <p><a href="press.html">Media Relations</a></p>
-                  <p><a href="press.html">Press Releases</a></p>
-                  <p><a href="press.html">Press Links</a></p>
+                  <p><a href="press.php">Media Relations</a></p>
+                  <p><a href="press.php">Press Releases</a></p>
+                  <p><a href="press.php">Press Links</a></p>
                   <p><a href="#">Blog</a></p>                  
                 </div>
               </div>
 `              <div class='col-md-3 col-sm-6 info-box social-box'>
                 <h2 class='title'>Support Omni Nano</h2>
-                <p><a href="donate.html">Donate</a></p>
-                <p><a href="partnerships.html">Corporate Support</a></p>
-                <p><a href="about_us.html">Why Omni Nano?</a></p>
-                <p><a href="faq.html">FAQ</a></p>
-                <p><a href="legal.html">Legal</a></p>
+                <p><a href="donate.php">Donate</a></p>
+                <p><a href="partnerships.php">Corporate Support</a></p>
+                <p><a href="about_us.php">Why Omni Nano?</a></p>
+                <p><a href="faq.php">FAQ</a></p>
+                <p><a href="legal.php">Legal</a></p>
               </div>
               <div class='col-md-3 col-sm-6 info-box'>
                 <div>
                   <h2 class='title'>OmniNano.org</h2>
                   <p><a href="">Mission</a></p>
-                  <p><a href="about_us.html">About us</a></p>
-                  <p><a href="about_us.html">Leadership</a></p>
-                  <p><a href="about_us.html">Board of Directors</a></p>
-                  <p><a href="partnerships.html">Partnerships</a></p>
-                  <p><a href="awards.html">Awards</a></p> 
+                  <p><a href="about_us.php">About us</a></p>
+                  <p><a href="about_us.php">Leadership</a></p>
+                  <p><a href="about_us.php">Board of Directors</a></p>
+                  <p><a href="partnerships.php">Partnerships</a></p>
+                  <p><a href="awards.php">Awards</a></p> 
                 </div>
               </div>
             </div>

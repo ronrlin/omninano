@@ -41,14 +41,14 @@
                 <span class='icon-bar'></span>
                 <span class='icon-bar'></span>
               </button>
-              <a class='navbar-brand' href='index.html'>
+              <a class='navbar-brand' href='index.php'>
                 <img alt="Omni Nano" width="117" height="39" src="assets/images/omni-logo.png" />
               </a>
             </div>
             <div class='collapse navbar-collapse navbar-header-collapse'>
               <ul class='nav navbar-nav navbar-right'>
                 <li class='dropdown'>
-                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='educators.html'>
+                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='educators.php'>
                     <span>
                       For Educators
                       <i class='fa-icon-angle-down'></i>
@@ -56,21 +56,21 @@
                   </a>
                   <ul class='dropdown-menu' role='menu'>
                     <li class=''>
-                      <a href='educators.html'>Discover Program</a>
+                      <a href='educators.php'>Discover Program</a>
                     </li>
                     <li class=''>
-                      <a href='educators.html'>Bridges Program</a>
+                      <a href='educators.php'>Bridges Program</a>
                     </li>
                     <li class=''>
-                      <a href='educators.html'>The Curriculum</a>
+                      <a href='educators.php'>The Curriculum</a>
                     </li>
 <!--                    <li>
-                      <a href='faq.html'>FAQ</a>
+                      <a href='faq.php'>FAQ</a>
                     </li> -->
                   </ul>
                 </li>
                 <li class='dropdown'>
-                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='syllabus.html'>
+                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='syllabus.php'>
                     <span>
                       For Students
                       <i class='fa-icon-angle-down'></i>
@@ -78,12 +78,12 @@
                   </a>
                   <ul class='dropdown-menu' role='menu'>
                     <li class=''>
-                      <a href='syllabus.html'>Course Syllabus</a>
+                      <a href='syllabus.php'>Course Syllabus</a>
                     </li>
                   </ul>
                 </li>
                 <li class='dropdown'>
-                  <a href='donate.html'>
+                  <a href='donate.php'>
                     <span>
                       Donate
                     </span>
@@ -108,7 +108,7 @@
                       </span>
                     </h1>
                     <p class='fadeInRight animated'>
-                      <a class='btn btn-squared btn-contrast btn-lg' href='about_us.html'>
+                      <a class='btn btn-squared btn-contrast btn-lg' href='about_us.php'>
                         Learn more about us
                       </a>
                     </p>
@@ -129,7 +129,7 @@
                       <span>We offer free course materials, quizzes and an award-winning textbook.</span>
                     </p>
                     <p class='fadeInRightBig animated'>
-                      <a class='btn btn-squared btn-contrast btn-lg' href='curriculum.html'>
+                      <a class='btn btn-squared btn-contrast btn-lg' href='curriculum.php'>
                         Explore the curriculum
                       </a>
                     </p>
@@ -148,7 +148,7 @@
                       <span>Explore nanotechnology applications, innovations and the science that will revolutionize the world of tomorrow!</span>
                     </p>
                     <p class='fadeInUpBig animated'>
-                      <a class='btn btn-squared btn-contrast btn-lg' href='syllabus.html'>
+                      <a class='btn btn-squared btn-contrast btn-lg' href='syllabus.php'>
                         Start learning now
                       </a>
                     </p>
@@ -173,7 +173,7 @@
             <div class='panels-wrapper'>
               <div class='row panels'>
                 <div class='col-sm-4 panel-item'>
-                  <a class='panel panel-image' href='educators.html'>
+                  <a class='panel panel-image' href='educators.php'>
                     <div class='panel-icon'>
                       <i class='fa-icon-search icon'></i>
                     </div>
@@ -194,7 +194,7 @@
                   </a>
                 </div>
                 <div class='col-sm-4 panel-item'>
-                  <a class='panel panel-image' href='educators.html'>
+                  <a class='panel panel-image' href='educators.php'>
                     <div class='panel-icon'>
                       <i class='fa-icon-bolt icon'></i>
                     </div>
@@ -214,7 +214,7 @@
                   </a>
                 </div>
                 <div class='col-sm-4 panel-item'>
-                  <a class='panel panel-image' href='educators.html'>
+                  <a class='panel panel-image' href='educators.php'>
                     <div class='panel-icon'>
                       <i class='fa-icon-book icon'></i>
                     </div>
@@ -247,7 +247,7 @@
                 </div>
                 <div class='row portfolio-boxes'>
                   <div class='col-sm-3 col-xs-6 no-mb-t-xs portfolio-box'>
-                    <a class='image-link' href='nanoscale_detail.html'>
+                    <a class='image-link' href='nanoscale_detail.php'>
                       <i class='fa-icon-search'></i>
                       <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="262" height="262" src="assets/images/misc/nanoscale.jpg" />
                     </a>
@@ -255,7 +255,7 @@
                     <p class='category'>Introduction to the science of the small-scale.</p>
                   </div>
                   <div class='col-sm-3 col-xs-6 no-mb-t-xs portfolio-box'>
-                    <a class='image-link' href='nanomaterials_detail.html'>
+                    <a class='image-link' href='nanomaterials_detail.php'>
                       <i class='fa-icon-link'></i>
                       <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="262" src="assets/images/misc/nanomaterials.jpg" />
                     </a>
@@ -263,7 +263,7 @@
                     <p class='category'>Explore materials science and how nanotechnology is key to creating materials with totally new properties!</p>
                   </div>
                   <div class='col-sm-3 col-xs-6 portfolio-box'>
-                    <a href='nanomedicine_detail.html'>
+                    <a href='nanomedicine_detail.php'>
                       <div class='image-link'>
                         <i class='fa-icon-search'></i>
                         <img class="img-responsive img-rounded center-block" alt="Dictum vulputate" width="262" height="262" src="assets/images/misc/nanomedicine.jpg" />
@@ -273,7 +273,7 @@
                     </a>
                   </div>
                   <div class='col-sm-3 col-xs-6 portfolio-box'>
-                    <a href='nanoelectronics_detail.html'>
+                    <a href='nanoelectronics_detail.php'>
                       <div class='image-link'>
                         <i class='fa-icon-search'></i>
                         <img class="img-responsive img-rounded center-block" alt="Semper massa" width="262" height="262" src="assets/images/misc/energy-storage.jpg" />
@@ -298,12 +298,12 @@
                     <div class='row'>
                       <div class='col-sm-4'><img class="img-responsive img-rounded center-block" alt="Omni Nano cares about students and educators" width="340" height="188" src="assets/images/misc/Boys-and-Girls-Club-nanotechnology-workshop-OmniNano-02.jpg" /></div>
                       <div class='col-sm-8'>
-                        <h3 class='title'><a href="nanotechnology.html">Think nano.  Think Big.</a></h3>
+                        <h3 class='title'><a href="nanotechnology.php">Think nano.  Think Big.</a></h3>
                         <p>Nanometer-scale science is unlocking amazing new applications in materials science, biotechnology, semiconductors and more.</p>
 
                         <p>It is well-known that there are major investments being made to improve STEM education around the world.  In the United States, this is in part driven by a desire to preserve America's global competitiveness.  In fact, it is estimated that nanotechnology will create over 5M jobs in the next decade!</p> 
 
-                        <a class='btn btn-contrast btn-bordered btn-xs' href='nanotechnology.html'>Read more</a>
+                        <a class='btn btn-contrast btn-bordered btn-xs' href='nanotechnology.php'>Read more</a>
                       </div>
                     </div>
                   </div>
@@ -312,11 +312,11 @@
                     <div class='row'>
                       <div class='col-sm-4'><img class="img-responsive img-rounded center-block" alt="Praesent vitae adipiscing nunc" width="330" height="183" src="assets/images/misc/awards1.jpg" /></div>
                       <div class='col-sm-8'>
-                        <h3 class='title'><a href="about_us.html">Why Omni Nano?</a></h3>
+                        <h3 class='title'><a href="about_us.php">Why Omni Nano?</a></h3>
                         <p>Nanotechnology is fundamentally changing industries, from semiconductors to medicine.  So how will Omni Nano help? </p>
 
                         <p>Omni Nano has developed a free open-source curriculum for Educators to employ in traditional classroom settings.  By equipping educators with the tools to introduce students to nanotechnology, we believe we can help cultivate the next generation of innovation.</p>
-                        <a class='btn btn-contrast btn-bordered btn-xs' href='about_us.html'>Read more</a>
+                        <a class='btn btn-contrast btn-bordered btn-xs' href='about_us.php'>Read more</a>
                       </div>
                     </div>
                   </div>

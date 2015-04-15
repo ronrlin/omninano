@@ -12,36 +12,36 @@
               <div class='col-md-3 col-sm-6 info-box'>
                 <h2 class='title'>For Educators</h2>
                 <div>
-                  <p><a href="educators.html">Discover Program</a></p>
-                  <p><a href="educators.html">Bridges Program</a></p>
-                  <p><a href="educators.html">The Curriculum</a></p>
-                  <p><a href="testimonials.html">Testimonials</a></p>                  
+                  <p><a href="educators.php">Discover Program</a></p>
+                  <p><a href="educators.php">Bridges Program</a></p>
+                  <p><a href="educators.php">The Curriculum</a></p>
+                  <p><a href="testimonials.php">Testimonials</a></p>                  
                 </div>
                 <h2 class='title'>Media Relations</h2>
                 <div>
-                  <p><a href="press.html">Media Relations</a></p>
-                  <p><a href="press.html">Press Releases</a></p>
-                  <p><a href="press.html">Press Links</a></p>
+                  <p><a href="press.php">Media Relations</a></p>
+                  <p><a href="press.php">Press Releases</a></p>
+                  <p><a href="press.php">Press Links</a></p>
                   <p><a href="#">Blog</a></p>                  
                 </div>
               </div>
 `              <div class='col-md-3 col-sm-6 info-box social-box'>
                 <h2 class='title'>Support Omni Nano</h2>
-                <p><a href="donate.html">Donate</a></p>
-                <p><a href="partnerships.html">Corporate Support</a></p>
-                <p><a href="about_us.html">Why Omni Nano?</a></p>
-                <p><a href="faq.html">FAQ</a></p>
-                <p><a href="legal.html">Legal</a></p>
+                <p><a href="donate.php">Donate</a></p>
+                <p><a href="partnerships.php">Corporate Support</a></p>
+                <p><a href="about_us.php">Why Omni Nano?</a></p>
+                <p><a href="faq.php">FAQ</a></p>
+                <p><a href="legal.php">Legal</a></p>
               </div>
               <div class='col-md-3 col-sm-6 info-box'>
                 <div>
                   <h2 class='title'>OmniNano.org</h2>
                   <p><a href="">Mission</a></p>
-                  <p><a href="about_us.html">About us</a></p>
-                  <p><a href="about_us.html">Leadership</a></p>
-                  <p><a href="about_us.html">Board of Directors</a></p>
-                  <p><a href="partnerships.html">Partnerships</a></p>
-                  <p><a href="awards.html">Awards</a></p> 
+                  <p><a href="about_us.php">About us</a></p>
+                  <p><a href="about_us.php">Leadership</a></p>
+                  <p><a href="about_us.php">Board of Directors</a></p>
+                  <p><a href="partnerships.php">Partnerships</a></p>
+                  <p><a href="awards.php">Awards</a></p> 
                 </div>
               </div>
             </div>

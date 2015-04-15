@@ -41,14 +41,14 @@
                 <span class='icon-bar'></span>
                 <span class='icon-bar'></span>
               </button>
-              <a class='navbar-brand' href='index.html'>
+              <a class='navbar-brand' href='index.php'>
                 <img alt="Omni Nano" width="117" height="39" src="assets/images/omni-logo.png" />
               </a>
             </div>
             <div class='collapse navbar-collapse navbar-header-collapse'>
               <ul class='nav navbar-nav navbar-right'>
                 <li class='dropdown'>
-                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='educators.html'>
+                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='educators.php'>
                     <span>
                       For Educators
                       <i class='fa-icon-angle-down'></i>
@@ -56,21 +56,21 @@
                   </a>
                   <ul class='dropdown-menu' role='menu'>
                     <li class=''>
-                      <a href='educators.html'>Discover Program</a>
+                      <a href='educators.php'>Discover Program</a>
                     </li>
                     <li class=''>
-                      <a href='educators.html'>Bridges Program</a>
+                      <a href='educators.php'>Bridges Program</a>
                     </li>
                     <li class=''>
-                      <a href='educators.html'>The Curriculum</a>
+                      <a href='educators.php'>The Curriculum</a>
                     </li>
                     <li>
-                      <a href='faq.html'>FAQ</a>
+                      <a href='faq.php'>FAQ</a>
                     </li>
                   </ul>
                 </li>
                 <li class='dropdown'>
-                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='syllabus.html'>
+                  <a class='dropdown-toggle' data-delay='50' data-hover='dropdown' data-toggle='dropdown' href='syllabus.php'>
                     <span>
                       For Students
                       <i class='fa-icon-angle-down'></i>
@@ -78,12 +78,12 @@
                   </a>
                   <ul class='dropdown-menu' role='menu'>
                     <li class=''>
-                      <a href='syllabus.html'>Course Syllabus</a>
+                      <a href='syllabus.php'>Course Syllabus</a>
                     </li>
                   </ul>
                 </li>
                 <li class='dropdown'>
-                  <a href='donate.html'>
+                  <a href='donate.php'>
                     <span>
                       Donate
                     </span>
@@ -157,7 +157,7 @@
                       </a>
                     </div>
                     <div class='col-sm-4 panel-item'>
-                      <a class='panel panel-image' href='curriculum.html'>
+                      <a class='panel panel-image' href='curriculum.php'>
                         <div class='panel-icon'>
                           <i class='fa-icon-book icon'></i>
                         </div>
@@ -314,11 +314,11 @@
                   <div class='row text-box'>
                     <div class='col-sm-6'><img class="img-responsive center-block" alt="Lorem ipsum dolor sit amet" width="340" height="188" src="assets/images/misc/Boys-and-Girls-Club-nanotechnology-workshop-OmniNano-02.jpg" /></div>
                     <div class='col-sm-6'>
-                      <h3 class='title'><a href="nanotechnology.html">Think nano.  Thing BIG!</a></h3>
+                      <h3 class='title'><a href="nanotechnology.php">Think nano.  Thing BIG!</a></h3>
                         <p>Nanometer-scale science is unlocking amazing new applications in materials science, biotechnology, semiconductors and more.</p>
 
                         <p>It is well-known that there are major investments being made to improve STEM education around the world.  In the United States, this is in part driven by a desire to preserve America's global competitiveness.  In fact, it is estimated that nanotechnology will create over 5M jobs in the next decade!</p>
-                      <a class='btn btn-contrast btn-bordered btn-sm' href='nanotechnology.html'>Read more</a>
+                      <a class='btn btn-contrast btn-bordered btn-sm' href='nanotechnology.php'>Read more</a>
                     </div>
                   </div>
                   <hr>
