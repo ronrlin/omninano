@@ -10,9 +10,9 @@
   <!-- <![endif] -->
   <head>
     <title>Omni Nano - The Curriculum to inspire the scientists, entrepreneurs and engineers of tomorrow!</title>
-    <meta content='blog, business, clean, multipurpose template, twitter bootstrap 3, responsive' name='keywords'>
-    <meta content='Jednotka is multipurpose Twitter Bootstrap 3 template which is suitable for any type of business or online project. ' name='description'>
-    <meta content='BublinaStudio.com' name='author'>
+    <meta content='nanotechnology, nanoscience, nanomedicine, nanobiology, nanomaterials, STEM' name='keywords'>
+    <meta content='Omni Nano is the nanotechnology curriculum for high school students. ' name='description'>
+    <meta content='OmniNano.org' name='author'>
     <meta content='all' name='robots'>
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta content='width=device-width, initial-scale=1.0' name='viewport'>
@@ -44,22 +44,22 @@
                 </h1>
                 <ol class='breadcrumb'>
                   <li>
-                    <a href='index.html'>
+                    <a href='index.php'>
                       <i class='fa-icon-home'></i>
                     </a>
                   </li>
                   <li>
-                    <a href='syllabus.html'>
+                    <a href='syllabus.php'>
                       Introduction
                     </a>
                   </li>
                   <li class='active'>Nanoelectronics</li>
                 </ol>
                 <div class='directional'>
-                  <a class='has-tooltip left' data-placement='right' data-title='Previous project' href='nanomedicine_detail.html'>
+                  <a class='has-tooltip left' data-placement='right' data-title='Previous project' href='nanomedicine_detail.php'>
                     <i class='fa-icon-chevron-left'></i>
                   </a>
-                  <a class='has-tooltip right' data-placement='left' data-title='Next project' href='nanoscale_detail.html'>
+                  <a class='has-tooltip right' data-placement='left' data-title='Next project' href='nanoscale_detail.php'>
                     <i class='fa-icon-chevron-right'></i>
                   </a>
                 </div>
@@ -157,7 +157,7 @@
                         <div class='carousel-inner'>
                           <div class='item active'>
                             <div class='col-sm-4 portfolio-box'>
-                              <a href='portfolio_detail.html'>
+                              <a href='portfolio_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-search'></i>
                                   <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="262" height="171" src="assets/images/demo/portfolio/1.jpg" />
@@ -167,7 +167,7 @@
                               </a>
                             </div>
                             <div class='col-sm-4 portfolio-box'>
-                              <a href='portfolio_detail.html'>
+                              <a href='portfolio_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-link'></i>
                                   <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="171" src="assets/images/demo/portfolio/2.jpg" />
@@ -177,7 +177,7 @@
                               </a>
                             </div>
                             <div class='col-sm-4 portfolio-box'>
-                              <a href='portfolio_detail.html'>
+                              <a href='portfolio_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-search'></i>
                                   <img class="img-responsive img-rounded center-block" alt="Dictum vulputate" width="262" height="171" src="assets/images/demo/portfolio/3.jpg" />
@@ -189,7 +189,7 @@
                           </div>
                           <div class='item'>
                             <div class='col-sm-4 portfolio-box'>
-                              <a href='portfolio_detail.html'>
+                              <a href='portfolio_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-search'></i>
                                   <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="171" src="assets/images/demo/portfolio/7.jpg" />

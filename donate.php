@@ -9,9 +9,8 @@
 <html lang='en'>
   <!-- <![endif] -->
   <head>
-    <title>Legal | About Omni Nano</title>
-    <meta content='nanotechnology, nanoscience, nanomedicine, nanobiology, nanomaterials, STEM' name='keywords'>
-    <meta content='Omni Nano is the nanotechnology curriculum for high school students. ' name='description'>
+    <title>Omni Nano - The Curriculum to inspire the scientists, entrepreneurs and engineers of tomorrow!</title>
+    <meta content='omni nano, nanotechnology, stem education' name='keywords'>
     <meta content='OmniNano.org' name='author'>
     <meta content='all' name='robots'>
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -35,99 +34,85 @@
         <?php include "header.php" ?>
       </header>
       <div id='main' role='main'>
-        <div id='main-content'>
+        <div id='main-content-header'>
           <div class='container'>
             <div class='row'>
               <div class='col-sm-12'>
-                <div class='page-header page-header-with-icon no-mg-t'>
-                  <i class='fa-icon-briefcase'></i>
-                  <h2>
-                    we're a 501(c)(3) tax-exempt organization
-                    <small>We support STEM education by teaching the science behind and applications of nanotechnology.</small>
-                  </h2>                  
-                </div>
-              </div>
-              <div class='col-sm-6 panel-item'>
-                <a class='panel panel-circle-contrast' href='#'>
-                  <div class='panel-body'>
-                    <h2 class='panel-title'>Your Support</h2>
-                    <p>
-                      Your support for Omni Nano goes towards the following:
-                      <ul>
-                        <li>Allows us to continue offering Discover workshops free to schools</li>
-                        <li>Supports development of the Omni Nano Curriculum</li>
-                        <li>Expands our training programs so we can offer Discover workshops nationwide</li>
-                        <li>Support development of digital materials and demonstrations The Curriculum</li>
-                      </ul>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class='col-sm-6 panel-item'>
-                <a class='panel panel-circle-contrast' href='#'>
-                  <div class='panel-body'>
-                    <h2 class='panel-title'>Tax Deductible</h2>
-                    <p>
-                      All donations are tax-deductible to the extent allowed by law. Omni Nano provides a tax substantiation letter for every donation of $250 or more.  
-                    </p>
-                  </div>
-                </a>
-              </div>              
-            </div>
-
-
-            <div class='row'>
-              <div class='col-sm-12'>
-                <div class='page-header page-header-with-icon'>
-                  <i class='fa-icon-book'></i>
-                  <h2>
-                    Supporting Documents
-                  </h2>
-                </div>
-                <div class='icon-boxes icon-boxes-lg'>
-                  <div class='row'>
-                    <div class='col-sm-6 icon-box'>
-                      <div class='icon icon-wrap icon-circle icon-lg contrast-bg'>
-                        <i class='fa-icon-tag text-white'></i>
-                      </div>
-                      <div class='content'>
-                        <h3 class='title'>IRS Letter of Determination</h3>
-                        <p>Curabitur id ante at diam consectetur mattis. Donec tristique est turpis, et dapibus odio accumsan non. Donec rutrum sodales interdum.</p>
-                      </div>
-                    </div>
-                    <div class='col-sm-6 icon-box'>
-                      <div class='icon icon-wrap icon-circle icon-lg contrast-bg'>
-                        <i class='fa-icon-tag text-white'></i>
-                      </div>
-                      <div class='content'>
-                        <h3 class='title'>California State Franchise Tax Board</h3>
-                        <p>Letter of exemption.</p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class='row'>
-                    <div class='col-sm-6 icon-box'>
-                      <div class='icon icon-wrap icon-circle icon-lg contrast-bg'>
-                        <i class='fa-icon-tag text-white'></i>
-                      </div>
-                      <div class='content'>
-                        <h3 class='title'>City of Los Angeles Tax Exemption Certificate</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed massa quis elit sagittis tempor. Ut rutrum sem vel augue rhoncus vestibulum.</p>
-                      </div>
-                    </div>
-                    <div class='col-sm-6 icon-box'>
-                      <div class='icon icon-wrap icon-circle icon-lg contrast-bg'>
-                        <i class='fa-icon-shield text-white'></i>
-                      </div>
-                      <div class='content'>
-                        <h3 class='title'>Independent verification</h3>
-                        <p>Read more about Omni Nano at GuideStar, Charity Navigator and the IRS.gov.</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                <h1 class='title'>
+                  Donate
+                  <small>Your support can help inspire the next generation of innovators!</small>
+                </h1>
               </div>
             </div>
+          </div>
+        </div>
+        <div id='main-content'>
+          <div class='container'>
+            <!-- payment flow here, make it like charity|water -->
+            <div class="col-sm-12">
+              <div class="text-center lead">
+                We are educating the students of today about the technologies of tomorrow.
+              </div>
+            </div>
+            <div class="col-sm-12 text-center">
+              <div class="lead lead-md">
+                <p>Your donation helps support the development of our comprehensive nanotechnology curriculum.</p>
+              </div>
+            </div>
+
+            <!-- payment flow here -->
+            <div class="col-sm-12">
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                <div style="display:none">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="XYWY2H4DHZ2VE">
+                  <input type="hidden" name="amount" value="42">                  
+                  <input name="utf8" type="hidden" value="&#x2713;" />
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                </div>
+                <div class='form-group'>
+                  <label>Donation Amount</label>
+                  <div class='row'>
+                    <div class='col-sm-6 col-md-4 col-lg-4'>
+                      <div class='input-group'>
+                        <span class='input-group-addon'>
+                          &#36;
+                        </span>
+                        <input class='form-control input-lg text-right' id='input-money' type='text'>
+                        <span class='input-group-addon'>.00</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="input-wrapper email-signup custom-check">
+                  <input name="donation_form[email_opt_in]" type="hidden" value="0" />
+                  <input checked="checked" id="general_water_donation_form_email_opt_in" name="donation_form[email_opt_in]" type="checkbox" value="1" />
+                  <label for="general_water_donation_form_email_opt_in">Send me emails about Omni Nano</label>
+                </div>
+                <div class='form-actions mg-t-lg'>
+                  <div class='row'>
+                    <div class='col-sm-6'>
+                      <div class='text-center-xs'>
+                        <div class='btn btn-contrast btn-lg'>
+                          <i class='fa-icon-credit-card'></i>
+                           <button class="btn" type="submit" formaction="https://www.paypal.com/cgi-bin/webscr" formmethod="post">Give by credit card</button>
+                        </div>
+                        <div>
+                          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </div>
+            <div class="col-sm-12 text-center">
+              <div class="lead lead-md">
+                <p>Not ready to donate?
+                Buy Omni Nano gear to <a href="http://www.tvpmarket.com/collections/omni-nano">support</a> our mission.</p>
+              </div>
+            </div>
+
           </div>
         </div>
         <div class='fade' id='scroll-to-top'>

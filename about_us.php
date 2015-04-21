@@ -129,24 +129,24 @@
                     <ul class='circle-stats'>
                       <li>
                         <div class='circle-stat-wrapper'>
-                          <input class='hidden' data-fgColor='#8dc153' data-readOnly='true' data-stat='circle' data-thickness='0.13' type='text' value='85'>
-                          <p class='percent'>85% of students</p>
+                          <input class='hidden' data-fgColor='#8dc153' data-readOnly='true' data-stat='circle' data-thickness='0.20' type='text' value='25'>
+                          <p class='percent'>40 Workshops</p>
                         </div>
-                        <h3 class='title'>Say they loved the class and expressed interest in nanotechnology</h3>
+                        <h3 class='title'>Over 40 workshops have been administered by Omni Nano in the Los Angeles area.</h3>
                       </li>
                       <li>
                         <div class='circle-stat-wrapper'>
-                          <input class='hidden' data-fgColor='#8dc153' data-readOnly='true' data-stat='circle' data-thickness='0.13' type='text' value='95'>
-                          <p class='percent'>35% of students</p>
+                          <input class='hidden' data-fgColor='#8dc153' data-readOnly='true' data-stat='circle' data-thickness='0.20' type='text' value='33'>
+                          <p class='percent'>33% increase</p>
                         </div>
-                        <h3 class='title'>Plan on pursuing a career in science after attending the nanotechnology course</h3>
+                        <h3 class='title'>We've measured a 33% increase in student interest in pursuing a career in science after attending an Omni Nano program!</h3>
                       </li>
                       <li>
                         <div class='circle-stat-wrapper'>
-                          <input class='hidden' data-fgColor='#8dc153' data-readOnly='true' data-stat='circle' data-thickness='0.13' type='text' value='70'>
-                          <p class='percent'>75% of teachers</p>
+                          <input class='hidden' data-fgColor='#8dc153' data-readOnly='true' data-stat='circle' data-thickness='0.20' type='text' value='10'>
+                          <p class='percent'>1,000 students</p>
                         </div>
-                        <h3 class='title'>Say Omni Nano helped them improve their course quality</h3>
+                        <h3 class='title'>Over 1,000 students have participated in an Omni Nano program.  Our goal is to impact 10,000 students by the end of 2016!</h3>
                       </li>
                     </ul>
                   </div>
@@ -174,7 +174,7 @@
                         <div class='col-sm-8'>
                           <h3 class='name'>Dr. Marco Curreli</h3>
                           <h4 class='position'>Executive Director and Founder</h4>
-                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum varius ipsum,</p>
+                          <p>Dr. Curelli is the Executive Director and Founder of Omni Nano. Dr. Curelli founded Omni Nano in 2012 after completing his doctoral research at the University of Southern California, where he specialized in surface modifications of nanomaterials. After completing his studies, Marco dedicated himself to developing a nanotechnology curriculum to inspire the next generation of scientists.</p>
                           <div class='links'>
                             <a class='btn btn-medium-light btn-sm btn-circle' href='https://www.linkedin.com/pub/marco-curreli/11/2a9/814'>
                               <i class='fa-icon-linkedin'></i>
@@ -197,7 +197,9 @@
                         <div class='col-sm-8'>
                           <h3 class='name'>Gina Napolitano</h3>
                           <h4 class='position'>Community Outreach</h4>
-                          <p>Praesent eu placerat enim, vitae condimentum arcu. Aenean ac semper purus.</p>
+                          <p>Gina earned a bachelor’s degree in Chemistry from the University of Southern California and has experience developing nanobiosensors for the medical device industry. She is an advocate for STEM education, as she was first inspired by her high school Chemistry teacher.  Gina works to develop exciting nanotechnology curriculum to give students today the same inspiring experience she benefited from first-hand.</p> 
+                          <p>She benefited first-hand from good STEM education, as she was inspired to enter the field by her high school Chemistry teacher. </p>
+                          <p>Being inspired by her high school chemistry teacher, she benefited first-hand from good (valuable, excellent, stimulating) STEM education (educators). Gina works to develop exciting nanotechnology curriculum with Omni Nano </p>
                           <div class='links'>
                             <a class='btn btn-medium-light btn-sm btn-circle' href='https://www.linkedin.com/profile/view?id=124640205&authType=NAME_SEARCH&authToken=icAt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1427905680867%2Ctas%3Agina+'>
                               <i class='fa-icon-linkedin'></i>
@@ -223,21 +225,33 @@
                     <ol class='timeline'>
                       <li>
                         <div class='image'><img alt="2013" width="120" height="120" src="assets/images/demo/timeline/cyclist.jpg" /></div>
-                        <p class='time'>2013</p>
-                        <h3 class='title'>Lorem ipsum dolor sit amet</h3>
-                        <p>Sed a enim eros. Sed eleifend viverra felis. Nam eu urna vel velit volutpat porta. Vestibulum dui libero.</p>
+                        <p class='time'>December 2012</p>
+                        <h3 class='title'>Dr. Marco Curelli creates Omni Nano.</h3>
+                        <p>After completing several years of nanotechnology research as a student and researcher at USC, Dr. Curelli decides education is his passion and sets off on creating a nanotechnology curriculum for inspiring young scientists.</p>
                       </li>
                       <li>
                         <div class='image'><img alt="2012" width="120" height="120" src="assets/images/demo/timeline/wipe_ears.jpg" /></div>
-                        <p class='time'>2012</p>
-                        <h3 class='title'>Donec id massa sodales</h3>
-                        <p>Curabitur vitae libero sagittis, placerat dolor eget, vestibulum sem. Pellentesque nec facilisis arcu. Duis viverra magna vitae urna tristique ullamcorper.</p>
+                        <p class='time'>September 2013</p>
+                        <h3 class='title'>First Discover workshop</h3>
+                        <p>After almost a year of assembling materials, initial funding and support, Omni Nano hosts its first Discover workshop.</p>
                       </li>
                       <li>
                         <div class='image'><img alt="2011" width="120" height="120" src="assets/images/demo/timeline/hat.jpg" /></div>
-                        <p class='time'>2011</p>
-                        <h3 class='title'>Praesent dignissim orci</h3>
-                        <p>Curabitur id leo cursus, dignissim nibh eget, consectetur arcu. Vivamus sodales arcu non odio tempor.</p>
+                        <p class='time'>January 2014</p>
+                        <h3 class='title'>First nanotechnology course</h3>
+                        <p>The first nanotechnology course developed by Omni Nano begins at XX School in Los Angeles.</p>
+                      </li>
+                      <li>
+                        <div class='image'><img alt="2012" width="120" height="120" src="assets/images/demo/timeline/wipe_ears.jpg" /></div>
+                        <p class='time'>August 2014</p>
+                        <h3 class='title'>14th Workshop</h3>
+                        <p>Omni Nano reaches its first year milestones, with 14 workshops and over 450 students inspired!</p>
+                      </li>
+                      <li>
+                        <div class='image'><img alt="2011" width="120" height="120" src="assets/images/demo/timeline/hat.jpg" /></div>
+                        <p class='time'>November 2014</p>
+                        <h3 class='title'>Award-winning!</h3>
+                        <p>Omni Nano earns a nomination from the Los Angeles Business Journal as most innovative new non-profit.</p>
                       </li>
                     </ol>
                   </div>

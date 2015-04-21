@@ -9,10 +9,10 @@
 <html lang='en'>
   <!-- <![endif] -->
   <head>
-    <title>Portfolio – 3 columns | Jednotka - Multipurpose Template</title>
-    <meta content='blog, business, clean, multipurpose template, twitter bootstrap 3, responsive' name='keywords'>
-    <meta content='Jednotka is multipurpose Twitter Bootstrap 3 template which is suitable for any type of business or online project. ' name='description'>
-    <meta content='BublinaStudio.com' name='author'>
+    <title>Curriculum</title>
+    <meta content='nanotechnology, nanoscience, nanomedicine, nanobiology, nanomaterials, STEM' name='keywords'>
+    <meta content='Omni Nano is the nanotechnology curriculum for high school students. ' name='description'>
+    <meta content='OmniNano.org' name='author'>
     <meta content='all' name='robots'>
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta content='width=device-width, initial-scale=1.0' name='viewport'>
@@ -21,7 +21,7 @@
     <link href='assets/images/meta_icons/apple-touch-icon.png' rel='apple-touch-icon-precomposed'>
     <!-- / required stylesheets -->
     <link href="assets/stylesheets/bootstrap/bootstrap.min.css" media="all" id="bootstrap" rel="stylesheet" type="text/css" />
-    <link href="assets/stylesheets/jednotka_green.css" media="all" id="colors" rel="stylesheet" type="text/css" />
+    <link href="assets/stylesheets/jednotka_blue.css" media="all" id="colors" rel="stylesheet" type="text/css" />
     <!-- / not required stylesheets -->
     <link href="assets/stylesheets/demo.css" media="all" rel="stylesheet" type="text/css" />
     <!--[if lt IE 9]>
@@ -53,104 +53,125 @@
               <div class='col-sm-12'>
                 <ul class='nav nav-pills'>
                   <li class='active'><a data-filter="*" href="#">All</a></li>
-                  <li><a data-filter=".portfolio-filter-photography" href="#">Photography</a></li>
-                  <li><a data-filter=".portfolio-filter-identity" href="#">Identity</a></li>
-                  <li><a data-filter=".portfolio-filter-webdesign" href="#">Webdesign</a></li>
-                  <li><a data-filter=".portfolio-filter-marketing" href="#">Marketing</a></li>
+                  <li><a data-filter=".portfolio-filter-intro-nanoscale" href="#">Introduction to Nanoscale</a></li>
+                  <li><a data-filter=".portfolio-filter-investigating-nanoscale" href="#">Investigating Nanomaterials</a></li>
+                  <li><a data-filter=".portfolio-filter-applications" href="#">Applications for Nanotechnology</a></li>
+                  <li><a data-filter=".portfolio-filter-building" href="#">Building Nanomaterials</a></li>
                 </ul>
               </div>
             </div>
             <div class='row portfolio-boxes' id='portfolio-container'>
-              <div class='col-sm-4 portfolio-box portfolio-filter-photography portfolio-item'>
+              <div class='col-sm-4 portfolio-box portfolio-filter-intro-nanoscale portfolio-item'>
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="360" height="235" src="assets/images/demo/portfolio/1.jpg" />
                   </div>
-                  <h3 class='title'>Etiam vestibulum</h3>
-                  <p class='category'>Photography</p>
+                  <h3 class='title'>What is Nanotechnology?</h3>
+                  <p class='category'>Introduction to the Nanoscale</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box portfolio-filter-webdesign portfolio-item'>
+              <div class='col-sm-4 portfolio-box portfolio-filter-intro-nanoscale portfolio-item'>
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Malesuada" width="360" height="235" src="assets/images/demo/portfolio/2.jpg" />
                   </div>
-                  <h3 class='title'>Malesuada</h3>
-                  <p class='category'>Webdesign</p>
+                  <h3 class='title'>What are Nanomaterials?</h3>
+                  <p class='category'>Introduction to the Nanoscale</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box portfolio-filter-identity portfolio-item'>
+              <div class='col-sm-4 portfolio-box portfolio-filter-intro-nanoscale portfolio-item'>
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Dictum vulputate" width="360" height="235" src="assets/images/demo/portfolio/3.jpg" />
                   </div>
-                  <h3 class='title'>Dictum vulputate</h3>
-                  <p class='category'>Identity</p>
+                  <h3 class='title'>What's Unique about the Nanoscale?</h3>
+                  <p class='category'>Introduction to the Nanoscale</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box portfolio-filter-marketing portfolio-item'>
+              <div class='col-sm-4 portfolio-box portfolio-filter-investigating-nanoscale portfolio-item'>
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Semper massa" width="360" height="235" src="assets/images/demo/portfolio/4.jpg" />
                   </div>
-                  <h3 class='title'>Semper massa</h3>
-                  <p class='category'>Marketing</p>
+                  <h3 class='title'>Imaging the Nanoscale</h3>
+                  <p class='category'>Investigating Nanomaterials</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box portfolio-filter-photography portfolio-filter-webdesign portfolio-item'>
+              <div class='col-sm-4 portfolio-box portfolio-filter-investigating-nanoscale portfolio-item'>
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Lorem ipsum" width="360" height="235" src="assets/images/demo/portfolio/5.jpg" />
                   </div>
-                  <h3 class='title'>Lorem ipsum</h3>
-                  <p class='category'>Photography, Webdesign</p>
+                  <h3 class='title'>Properties of Nanomaterials</h3>
+                  <p class='category'>Investigating Nanomaterials</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box portfolio-filter-identity portfolio-item'>
+              <div class='col-sm-4 portfolio-box portfolio-filter-applications portfolio-item'>
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Pellentesque" width="360" height="235" src="assets/images/demo/portfolio/6.jpg" />
                   </div>
-                  <h3 class='title'>Pellentesque</h3>
-                  <p class='category'>Identity</p>
+                  <h3 class='title'>High Surface Materials</h3>
+                  <p class='category'>Applications for Nanotechnology</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box portfolio-filter-webdesign portfolio-item'>
+              <div class='col-sm-4 portfolio-box portfolio-filter-investigating-nanoscale portfolio-item'>
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Malesuada" width="360" height="235" src="assets/images/demo/portfolio/7.jpg" />
                   </div>
-                  <h3 class='title'>Malesuada</h3>
-                  <p class='category'>Webdesign</p>
+                  <h3 class='title'>Electronic and Optical Properties</h3>
+                  <p class='category'>Investigating Nanomaterials</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box portfolio-filter-marketing portfolio-item'>
+              <div class='col-sm-4 portfolio-box portfolio-filter-applications portfolio-item'>
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Cullamcorper" width="360" height="235" src="assets/images/demo/portfolio/8.jpg" />
                   </div>
-                  <h3 class='title'>Cullamcorper</h3>
-                  <p class='category'>Marketing</p>
+                  <h3 class='title'>Light and Energy Harvesting</h3>
+                  <p class='category'>Applications for Nanotechnology</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box portfolio-filter-identity portfolio-filter-marketing portfolio-item'>
+              <div class='col-sm-4 portfolio-box portfolio-filter-applications portfolio-item'>
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Etiam posuere" width="360" height="235" src="assets/images/demo/portfolio/9.jpg" />
                   </div>
-                  <h3 class='title'>Etiam posuere</h3>
-                  <p class='category'>Identity, Marketing</p>
+                  <h3 class='title'>Diagnostic Applications in Medicine</h3>
+                  <p class='category'>Applications for Nanotechnology</p>
                 </a>
               </div>
+              <div class='col-sm-4 portfolio-box portfolio-filter-building portfolio-item'>
+                <a href='portfolio_detail.php'>
+                  <div class='image-link'>
+                    <i class='fa-icon-search'></i>
+                    <img class="img-responsive img-rounded center-block" alt="Etiam posuere" width="360" height="235" src="assets/images/demo/portfolio/9.jpg" />
+                  </div>
+                  <h3 class='title'>Self-Assembly</h3>
+                  <p class='category'>Building Nanomaterials</p>
+                </a>
+              </div>
+              <div class='col-sm-4 portfolio-box portfolio-filter-building portfolio-item'>
+                <a href='portfolio_detail.php'>
+                  <div class='image-link'>
+                    <i class='fa-icon-search'></i>
+                    <img class="img-responsive img-rounded center-block" alt="Etiam posuere" width="360" height="235" src="assets/images/demo/portfolio/9.jpg" />
+                  </div>
+                  <h3 class='title'>Top-down Fabrication</h3>
+                  <p class='category'>Building Nanomaterials</p>
+                </a>
+              </div>
+
             </div>
           </div>
         </div>

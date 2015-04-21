@@ -10,9 +10,9 @@
   <!-- <![endif] -->
   <head>
     <title>Omni Nano - The Curriculum to inspire the scientists, entrepreneurs and engineers of tomorrow!</title>
-    <meta content='blog, business, clean, multipurpose template, twitter bootstrap 3, responsive' name='keywords'>
-    <meta content='Jednotka is multipurpose Twitter Bootstrap 3 template which is suitable for any type of business or online project. ' name='description'>
-    <meta content='BublinaStudio.com' name='author'>
+    <meta content='nanotechnology, nanoscience, nanomedicine, nanobiology, nanomaterials, STEM' name='keywords'>
+    <meta content='Omni Nano is the nanotechnology curriculum for high school students. ' name='description'>
+    <meta content='OmniNano.org' name='author'>
     <meta content='all' name='robots'>
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta content='width=device-width, initial-scale=1.0' name='viewport'>
@@ -113,7 +113,7 @@
                       <h3 class='title'>Is America Ready?</h3>
                     </div>                    
 
-                    <div class='box'><a class="btn btn-contrast btn-bordered btn-block" href="donate.html">Support Omni Nano</a></div>
+                    <div class='box'><a class="btn btn-contrast btn-bordered btn-block" href="donate.php">Support Omni Nano</a></div>
                   </div>
                 </nav>
               </div>
@@ -151,7 +151,7 @@
               <div class='col-sm-12'>
                 <div class='row portfolio-boxes'>
                   <div class='col-sm-3 col-xs-6 no-mb-t-xs portfolio-box'>
-                    <a class='image-link' href='nanoscale_detail.html'>
+                    <a class='image-link' href='nanoscale_detail.php'>
                       <i class='fa-icon-search'></i>
                       <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="262" height="262" src="assets/images/misc/nanoscale.jpg" />
                     </a>
@@ -159,7 +159,7 @@
                     <p class='category'>Introduction to the science of the small-scale.</p>
                   </div>
                   <div class='col-sm-3 col-xs-6 no-mb-t-xs portfolio-box'>
-                    <a class='image-link' href='nanomaterials_detail.html'>
+                    <a class='image-link' href='nanomaterials_detail.php'>
                       <i class='fa-icon-link'></i>
                       <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="262" src="assets/images/misc/nanomaterials.jpg" />
                     </a>
@@ -167,7 +167,7 @@
                     <p class='category'>Explore materials science and how nanotechnology is key to creating materials with totally new properties!</p>
                   </div>
                   <div class='col-sm-3 col-xs-6 portfolio-box'>
-                    <a href='portfolio_detail.html'>
+                    <a href='portfolio_detail.php'>
                       <div class='image-link'>
                         <i class='fa-icon-search'></i>
                         <img class="img-responsive img-rounded center-block" alt="Dictum vulputate" width="262" height="262" src="assets/images/misc/nanomedicine.jpg" />
@@ -177,7 +177,7 @@
                     </a>
                   </div>
                   <div class='col-sm-3 col-xs-6 portfolio-box'>
-                    <a href='portfolio_detail.html'>
+                    <a href='portfolio_detail.php'>
                       <div class='image-link'>
                         <i class='fa-icon-search'></i>
                         <img class="img-responsive img-rounded center-block" alt="Semper massa" width="262" height="262" src="assets/images/misc/energy-storage.jpg" />
