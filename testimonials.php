@@ -10,9 +10,8 @@
   <!-- <![endif] -->
   <head>
     <title>Omni Nano - The Curriculum to inspire the scientists, entrepreneurs and engineers of tomorrow!</title>
-    <meta content='blog, business, clean, multipurpose template, twitter bootstrap 3, responsive' name='keywords'>
-    <meta content='Jednotka is multipurpose Twitter Bootstrap 3 template which is suitable for any type of business or online project. ' name='description'>
-    <meta content='BublinaStudio.com' name='author'>
+    <meta content='Omni Nano is the nanotechnology curriculum to inspire scientists, entrepreneurs and engineers of tomorrow. ' name='description'>
+    <meta content='OmniNano.org' name='author'>
     <meta content='all' name='robots'>
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta content='width=device-width, initial-scale=1.0' name='viewport'>
@@ -49,11 +48,8 @@
         </div>
         <div id='main-content'>
           <div class='container'>
-            <div class='row'>
-              <div class='col-sm-12'>
-                <p class='lead lead-lg text-center'>We're leaders in nanotechnology education.</p>
-              </div>
-            </div>
+
+<!-- this might be useful later
             <div class='panels-wrapper'>
               <div class='row panels'>
                 <div class='col-sm-4 panel-item'>
@@ -62,8 +58,8 @@
                       <i class='fa-icon-time icon'></i>
                     </div>
                     <div class='panel-body'>
-                      <h3 class='panel-title'>Project planning</h3>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu pharetra felis.est.</p>
+                      <h3 class='panel-title'>Free workshops</h3>
+                      <p>Not convinced your students need nanotechnology education?  Try our one-day Discover workshops to see for yourself.</p>
                     </div>
                   </a>
                 </div>
@@ -73,8 +69,8 @@
                       <i class='fa-icon-cog icon'></i>
                     </div>
                     <div class='panel-body'>
-                      <h3 class='panel-title'>Easy customizable</h3>
-                      <p>Etiam init rutrum ligula semper neque relu dapibus, non tempus mauris sodales.est.</p>
+                      <h3 class='panel-title'>Customizable course materials</h3>
+                      <p>The educators job should be teaching.  We try to help so you can focus on teaching, not preparing materials.</p>
                     </div>
                   </a>
                 </div>
@@ -90,92 +86,117 @@
                   </a>
                 </div>
               </div>
-              <div class='row panels'>
-                <div class='col-sm-4 panel-item'>
-                  <a class='panel panel-big' href='#'>
-                    <div class='panel-icon'>
-                      <i class='fa-icon-mobile-phone icon'></i>
-                    </div>
-                    <div class='panel-body'>
-                      <h3 class='panel-title'>Responsive</h3>
-                      <p>Ut gravida convallis magna. Fusce diam massa, vulputate sit amet gravida a.</p>
-                    </div>
-                  </a>
-                </div>
-                <div class='col-sm-4 panel-item'>
-                  <a class='panel panel-big' href='#'>
-                    <div class='panel-icon'>
-                      <i class='fa-icon-flag-alt icon'></i>
-                    </div>
-                    <div class='panel-body'>
-                      <h3 class='panel-title'>Font Awesome</h3>
-                      <p>Cras metus dolor, pretium at libero ut, vestibulum iaculis lorem. In vel augue non.</p>
-                    </div>
-                  </a>
-                </div>
-                <div class='col-sm-4 panel-item'>
-                  <a class='panel panel-big' href='#'>
-                    <div class='panel-icon'>
-                      <i class='fa-icon-book icon'></i>
-                    </div>
-                    <div class='panel-body'>
-                      <h3 class='panel-title'>Documentation</h3>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu pharetra felis.est.</p>
-                    </div>
-                  </a>
-                </div>
-              </div>
             </div>
+  -->
 
             <div class='row'>
               <div class='col-sm-12'>
                 <div class='page-header page-header-with-icon'>
                   <i class='fa-icon-quote-right'></i>
-                  <h2>Testimonials</h2>
                 </div>
                 <div class='row quotes'>
                   <div class='carousel carousel-default slide carousel-auto' id='carousel-testimonials'>
                     <div class='carousel-inner'>
                       <div class='item active quote'>
                         <div class='col-sm-12 text-center'>
-                          <p class='lead'>Mauris at ultricies eros. Morbi vel dui nec arcu suscipit euismod. Phasellus pellentesque lectus eget quam ullamcorper consectetur. Vestibulum vitae risus a erat mollis lac in venenatis tellus.</p>
+                          <p class='lead'>
+                            I’m delighted to learn that Omni Nano is producing nanotechnology curricula for use in high schools and colleges.  There is a great need in the U.S. for science, technology, engineering and mathematics (STEM) education programs."
+                          </p>
                           <div class='author-wrapper'>
                             <p class='author'>
-                              <strong>John Doe</strong>,
-                              Company name
+                              <strong>Jess Jankowski</strong><br />
+                              President and CEO, NanoPhase Technologies Corporation
                             </p>
                           </div>
                         </div>
                       </div>
                       <div class='item quote'>
                         <div class='col-sm-12 text-center'>
-                          <p class='lead'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent accumsan leo tellus. Nulla fringilla elementum nisl, vitae faucibus risus. Donec ut tristique eros. Curabitur mattis auctor turpis.</p>
+                          <p class='lead'>
+                            What a great experience! My students were thrilled to hear about the newest ideas and applications in nanoscience and technology. From medicine to electronics the possibilities are amazing. My students also enjoyed meeting a real scientist, learning more about nanoscience, and playing with the superhydrophobic material!" 
+                          </p>
                           <div class='author-wrapper'>
                             <p class='author'>
-                              <strong>Michal Marek</strong>,
-                              Bublina Studio
+                              <strong>Valencia High School Teacher</strong><br />
+                              Valencia, CA
                             </p>
                           </div>
                         </div>
                       </div>
                       <div class='item quote'>
                         <div class='col-sm-12 text-center'>
-                          <p class='lead'>Aenean lorem quam, dapibus et enim vel, ultrices tincidunt tellus. Donec mattis massa et lacus interdum lobortis. Pellentesque habitant morbi tristique senectus. Curabitur mattis auctor turpis.</p>
+                          <p class='lead'>
+Dr. Marco Curreli gave a fascinating and inspiring presentation to our club members. He captivated our teenage club members, demonstrating various examples of the applications of nanotechnology. Marco blended lecture with video clips and tangible demonstrations that widened eyes and dropped jaws."
+                          </p>
                           <div class='author-wrapper'>
                             <p class='author'>
-                              <strong>Paľo Delinčák</strong>,
-                              Bublina Studio
+                              <strong>Boys and Girls Club</strong><br />
+                              Mar Vista Gardens, Culver City, CA
                             </p>
                           </div>
                         </div>
                       </div>
                       <div class='item quote'>
                         <div class='col-sm-12 text-center'>
-                          <p class='lead'>Integer quis placerat leo, sit amet varius odio. Fusce sollicitudin metus eu eros egestas cursus ut ullamcorper augue. Integer blandit tellus a urna semper, sit amet tempor orci ornare. Mauris nec.</p>
+                          <p class='lead'>
+                            I understand how vital it is that we establish a pipeline of skilled professionals knowledgeable in nanotechnology if we as a nation are to remain leaders in the technological race."
+                          </p>
                           <div class='author-wrapper'>
                             <p class='author'>
-                              <strong>Jane Doe</strong>,
-                              Company name
+                              <strong>David A. Roberts</strong><br />
+                              Director Materials Development, Nantero Inc.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class='item quote'>
+                        <div class='col-sm-12 text-center'>
+                          <p class='lead'>
+                            We believe it is critical for students to be exposed to the field of nanotechnology early in their academic lives, and to have robust high school level courses readily available to them. I believe that the nanotechnology curriculum Omni Nano is developing will be a key element to the successful implementation of nano courses in our high schools and colleges."
+                          </p>
+                          <div class='author-wrapper'>
+                            <p class='author'>
+                              <strong>Mark Shaw</strong><br />
+                              CEO, Ultra Tech International, Inc.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class='item quote'>
+                        <div class='col-sm-12 text-center'>
+                          <p class='lead'>
+                            Dr. Curreli has crafted a well-balanced presentation with astonishing video clips that held the interest of my students for two hours. It is not easy to maintain the focus of teenagers for that length of time. He even had quite a number of my students approach him with questions after the class was over... BRAVO!"                          
+                          </p>
+                          <div class='author-wrapper'>
+                            <p class='author'>
+                              <strong>Michael Marderosian</strong><br />
+                              Applied Technology Center, Montebello Unified School District
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class='item quote'>
+                        <div class='col-sm-12 text-center'>
+                          <p class='lead'>
+                            If you really want to inspire your students to learn more about STEM, especially nanotechnology, Dr. Marco is your man. He skillfully and seemlessly incorporates an engaging presentation complete with interesting photos, awe-inspiring videos and even physical props to help students see and feel the exponential impact nanotechnology is having in our world."
+                          </p>
+                          <div class='author-wrapper'>
+                            <p class='author'>
+                              <strong>Chris Kai</strong><br />
+                              Executive Director, Mondays at the Mission
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class='item quote'>
+                        <div class='col-sm-12 text-center'>
+                          <p class='lead'>
+                            Introducing nanotechnology as a science in the high school classroom will provide our students a head start, opening students' eyes to how they can participate in the creating future technologies."
+                          </p>
+                          <div class='author-wrapper'>
+                            <p class='author'>
+                              <strong>Gus Pappas</strong><br />
+                              CEO, Nano Technologies LLC
                             </p>
                           </div>
                         </div>
@@ -186,34 +207,32 @@
                       <li data-slide-to='1' data-target='#carousel-testimonials'></li>
                       <li data-slide-to='2' data-target='#carousel-testimonials'></li>
                       <li data-slide-to='3' data-target='#carousel-testimonials'></li>
+                      <li data-slide-to='4' data-target='#carousel-testimonials'></li>
+                      <li data-slide-to='5' data-target='#carousel-testimonials'></li>
                     </ol>
                   </div>
                 </div>
               </div>
             </div>
+
             <div class='row'>
               <div class='col-sm-12'>
                 <div class='page-header page-header-with-icon'>
-                  <i class='fa-icon-certificate'></i>
+                  <i class='fa-icon-gift'></i>
                   <h2>
-                    Corporate and University Parnterships
-                    <small>We partner with corporate and university partners.</small>
+                    What are you waiting for?
+                    <small>Support nanotechnology education.</small>
                   </h2>
                 </div>
                 <div class='row'>
                   <div class='col-sm-12'>
-                    <div class='client-slideshow cycle-slideshow' data-cycle-carousel-fluid='true' data-cycle-fx='carousel' data-cycle-timeout='2000'>
-                      <img alt="" width="140" height="33" src="assets/images/demo/logos/jquerymobile.jpg" />
-                      <img alt="" width="140" height="33" src="assets/images/demo/logos/dribbble.jpg" />
-                      <img alt="" width="140" height="26" src="assets/images/demo/logos/behance.jpg" />
-                      <img alt="" width="139" height="32" src="assets/images/demo/logos/wp.jpg" />
-                      <img alt="" width="151" height="28" src="assets/images/demo/logos/envato.jpg" />
-                      <img alt="" width="31" height="38" src="assets/images/demo/logos/apple.jpg" />
+                    <div class='text-center-xs'>
+                      <a class='btn btn-block btn-contrast' href='donate.php'>Donate</a>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
+            </div>            
           </div>
         </div>
         <div class='fade' id='scroll-to-top'>
