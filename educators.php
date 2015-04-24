@@ -65,9 +65,10 @@
                         <div class='panel-icon'>
                           <i class='fa-icon-search icon'></i>
                         </div>
-                        <div class='panel-heading'><img class="img-responsive-sm" alt="Project planning" width="768" height="300" src="assets/images/demo/panels/panel_bg_compass.jpg" /></div>
+                        <div class='panel-heading'><img class="img-responsive-sm" alt="Project planning" width="768" height="300" src="assets/images/misc/panel_bg_discover-D.jpg" /></div>
                         <div class='panel-body'>
                           <h3 class='panel-title'>Discover Program</h3>
+                          <h4 class='panel-subtitle'><em>One-day workshops</em></h4>
                           <p style="text-align: justify;">
                             The Discover program is a free workshop offered to high schools or after-school programs, perfect for exposing audiences to the promise and potential of nanotechnology.  
                             <br /><br />
@@ -83,9 +84,10 @@
                         <div class='panel-icon'>
                           <i class='fa-icon-bolt icon'></i>
                         </div>
-                        <div class='panel-heading'><img class="img-responsive-sm" alt="Easy customizable" width="768" height="300" src="assets/images/demo/panels/panel_bg_hat.jpg" /></div>
+                        <div class='panel-heading'><img class="img-responsive-sm" alt="Easy customizable" width="768" height="300" src="assets/images/misc/panel_bg_bridges.jpg" /></div>
                         <div class='panel-body'>
-                          <h3 class='panel-title'>Bridges Program</h3>
+                          <h3 class='panel-title'>Bridges Program</h3>                      
+                          <h4 class='panel-subtitle'><em>Multi-day immersive</em></h4>
                           <p style="text-align: justify;">
                         The Bridges program is a full-featured introductory course plan featuring the Omni Nano Curriculum.  This program is perfect for schools that are exploring the potential for an applied course in nanotechnology.  
                         <br /><br />
@@ -101,9 +103,10 @@
                         <div class='panel-icon'>
                           <i class='fa-icon-book icon'></i>
                         </div>
-                        <div class='panel-heading'><img class="img-responsive-sm" alt="Fastest workers" width="768" height="300" src="assets/images/demo/panels/panel_bg_chess.jpg" /></div>
+                        <div class='panel-heading'><img class="img-responsive-sm" alt="Fastest workers" width="768" height="300" src="assets/images/misc/panel_bg_curriculum-B.jpg" /></div>
                         <div class='panel-body'>
                           <h3 class='panel-title'>The Curriculum</h3>
+                          <h4 class='panel-subtitle'><em>Comprehensive educational resources</em></h4>
                           <p style="text-align: justify;">
                               The flagship Omni Nano program is the comprehensive curriculum tailored for the needs of today's science educators.  
                               <br /><br />
@@ -261,10 +264,35 @@
                       <a class='btn btn-contrast btn-bordered btn-sm' href='nanotechnology.php'>Read more</a>
                     </div>
                   </div>
-                  <hr>
+                  
                 </div>
               </div>
             </div>
+
+            <div class='row'>
+              <div class='col-sm-12'>
+                <div class='page-header page-header-with-icon'>
+                  <i class='fa-icon-certificate'></i>
+                  <h2>
+                    Partnerships with Educational &amp; Industry Leaders
+                    <small>We develop our educational resources in partnership with leading universities and nanotechnology commercial partners.</small>
+                  </h2>
+                </div>
+                <div class='row'>
+                  <div class='col-sm-12'>
+                    <div class='client-slideshow cycle-slideshow' data-cycle-carousel-fluid='true' data-cycle-fx='carousel' data-cycle-timeout='2000'>
+                      <img alt="" width="240" height="133" src="assets/images/misc/nanophase-logo-scale.png" />
+                      <img alt="" width="240" height="133" src="assets/images/misc/sce-logo-scale.png" />
+                      <img alt="" width="240" height="133" src="assets/images/misc/ucla-logo-scale.jpg" />                    
+                      <img alt="" width="240" height="133" src="assets/images/misc/besstech-logo.png" />                    
+                      <img alt="" width="240" height="133" src="assets/images/misc/usc-logo.png" />                    
+                      <img alt="" width="240" height="133" src="assets/images/misc/ultratech-logo-scale.png" />                    
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
         <div class='fade' id='scroll-to-top'>

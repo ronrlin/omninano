@@ -134,7 +134,7 @@
                     </p>
 
                     <p class='lead lead-sm'>
-                      Nanomaterials are often materials developed where there is control over the placement of individual atoms or molecules that comprise a material.  This is a revolutionary development.  
+                      For medicine, nanotechnology promises to have a substantial impact through improving the precision and detail of diagnostic methods, and by enhancing the specificity of therapeutics.   
                     </p>   
 
                     <p class='lead lead-sm'>
