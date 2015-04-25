@@ -66,7 +66,7 @@
                 <div style="display:none">
                   <input type="hidden" name="cmd" value="_s-xclick">
                   <input type="hidden" name="hosted_button_id" value="XYWY2H4DHZ2VE">
-                  <input type="hidden" name="amount" value="42">                  
+                  <input type="hidden" name="amount" value="42.00">                  
                   <input name="utf8" type="hidden" value="&#x2713;" />
                   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                 </div>
@@ -93,23 +93,31 @@
                   <div class='row'>
                     <div class='col-sm-6'>
                       <div class='text-center-xs'>
-                        <div class='btn btn-contrast btn-lg'>
-                          <i class='fa-icon-credit-card'></i>
-                           <button class="btn" type="submit" formaction="https://www.paypal.com/cgi-bin/webscr" formmethod="post">Give by credit card</button>
-                        </div>
-                        <div>
-                          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                        </div>
+                        <button class="btn btn-contrast" type="submit" formaction="https://www.paypal.com/cgi-bin/webscr" formmethod="post">Give by credit card</button> 
+                        <button class="btn btn-contrast" type="submit" formaction="https://www.paypal.com/cgi-bin/webscr" formmethod="post">Give by Paypal</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <div class='row'>
+                    <div class='col-sm-6'>
+                      <div class='text-center-xs'>
+                        <p><strong><a href="">Give by stock or check</a></strong></p>
                       </div>
                     </div>
                   </div>
                 </div>
               </form>
             </div>
+            <hr>
             <div class="col-sm-12 text-center">
               <div class="lead lead-md">
                 <p>Not ready to donate?
                 Buy Omni Nano gear to <a href="http://www.tvpmarket.com/collections/omni-nano">support</a> our mission.</p>
+              </div>
+              <div>
+                <img width="100%" src="assets/images/misc/omninano-online-store.jpg">
               </div>
             </div>
 

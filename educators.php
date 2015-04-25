@@ -68,7 +68,7 @@
                         <div class='panel-heading'><img class="img-responsive-sm" alt="Project planning" width="768" height="300" src="assets/images/misc/panel_bg_discover-D.jpg" /></div>
                         <div class='panel-body'>
                           <h3 class='panel-title'>Discover Program</h3>
-                          <h4 class='panel-subtitle'><em>One-day workshops</em></h4>
+                          <h5 class='panel-subtitle'><em>One-day workshops</em></h5>
                           <p style="text-align: justify;">
                             The Discover program is a free workshop offered to high schools or after-school programs, perfect for exposing audiences to the promise and potential of nanotechnology.  
                             <br /><br />
@@ -87,7 +87,7 @@
                         <div class='panel-heading'><img class="img-responsive-sm" alt="Easy customizable" width="768" height="300" src="assets/images/misc/panel_bg_bridges.jpg" /></div>
                         <div class='panel-body'>
                           <h3 class='panel-title'>Bridges Program</h3>                      
-                          <h4 class='panel-subtitle'><em>Multi-day immersive</em></h4>
+                          <h5 class='panel-subtitle'><em>Multi-day immersive</em></h5>
                           <p style="text-align: justify;">
                         The Bridges program is a full-featured introductory course plan featuring the Omni Nano Curriculum.  This program is perfect for schools that are exploring the potential for an applied course in nanotechnology.  
                         <br /><br />
@@ -106,7 +106,7 @@
                         <div class='panel-heading'><img class="img-responsive-sm" alt="Fastest workers" width="768" height="300" src="assets/images/misc/panel_bg_curriculum-B.jpg" /></div>
                         <div class='panel-body'>
                           <h3 class='panel-title'>The Curriculum</h3>
-                          <h4 class='panel-subtitle'><em>Comprehensive educational resources</em></h4>
+                          <h5 class='panel-subtitle'><em>Comprehensive educational resources</em></h5>
                           <p style="text-align: justify;">
                               The flagship Omni Nano program is the comprehensive curriculum tailored for the needs of today's science educators.  
                               <br /><br />
@@ -169,6 +169,17 @@
                         <p>Engaging modules, exciting but challenging exercises, Omni Nano gets students and teachers excited about nanotechnology.</p>
                       </div>
                     </div>
+                  </div>
+                </div>
+              </div>
+              <hr class='hr-half hr-invisible'>
+              <div class='row'>
+                <div class='col-sm-12'>
+                  <div class='well'><center><strong>Bring a Discover workshop to your school!</strong></center></div>
+                </div>
+                <div class='col-sm-12'>
+                  <div class='text-center-xs'>
+                    <a class='btn btn-block btn-contrast' href='contact.php'>Apply for information</a>
                   </div>
                 </div>
               </div>
@@ -245,6 +256,17 @@
                   </div>
                 </div>
               </div>
+              <hr class='hr-half hr-invisible'>
+              <div class='row'>
+                <div class='col-sm-12'>
+                  <div class='well'><center><strong>Bridges is an immersive program that works in partnership with your school or after-school program.</strong></center></div>
+                </div>
+                <div class='col-sm-12'>
+                  <div class='text-center-xs'>
+                    <a class='btn btn-block btn-contrast' href='contact.php'>Apply for information</a>
+                  </div>
+                </div>
+              </div>              
             </div>
 
             <div class='row'>

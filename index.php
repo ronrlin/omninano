@@ -122,7 +122,7 @@
                     </div>                    
                     <div class='panel-body'>
                       <h3 class='panel-title'>Omni Nano Discover</h3>
-                      <h3 class='panel-subtitle'><em>One-day workshops</em></h3>
+                      <h5 class='panel-subtitle'><em>One-day workshops</em></h5>
                       <p style="text-align: justify;">
                         The Discover program is a free workshop offered to high schools or after-school programs, perfect for exposing audiences to the promise and potential of nanotechnology.  
                         <br /><br />
@@ -144,7 +144,7 @@
                     </div>                    
                     <div class='panel-body'>
                       <h3 class='panel-title'>Omni Nano Bridges</h3>
-                      <h3 class='panel-subtitle'><em>Multi-day immersive</em></h3>
+                      <h5 class='panel-subtitle'><em>Multi-day immersive</em></h5>
                       <p style="text-align: justify;">
                         The Bridges program is a full-featured introductory course plan featuring the Omni Nano Curriculum.  This program is perfect for schools that are exploring the potential for an applied course in nanotechnology.  
                         <br /><br />
@@ -165,7 +165,7 @@
                     </div>                    
                     <div class='panel-body'>
                       <h3 class='panel-title'>Omni Nano Curriculum</h3>
-                      <h3 class='panel-subtitle'><em>Comprehensive educational resources</em></h3>
+                      <h5 class='panel-subtitle'><em>Comprehensive educational resources</em></h5>
                      <p style="text-align: justify;">
                         The flagship Omni Nano program is the comprehensive curriculum tailored for the needs of today's science educators.  
                         <br /><br />
