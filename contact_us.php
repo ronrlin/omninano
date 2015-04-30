@@ -56,11 +56,49 @@
           </div>
         </div>
         <div id='main-content'>
-          <div id='map-canvas'></div>
           <div class='container'>
             <div class='row'>
-              <div class='col-sm-12'>
-                <p class='lead text-center no-mg-b'>Quisque nunc sapien, malesuada vitae luctus in, blandit eu erat. Cras fringilla eros eget justo dictum convallis.</p>
+              <div class='col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2'>
+                <div class='page-header page-header-with-icon'>
+                  <i class='fa-icon-envelope-alt'></i>
+                  <h2>Contact form</h2>
+                </div>
+                <form class='form form-validation form-contact' method='post'>
+                  <div class='row'>
+                    <div class='col-sm-12'>
+                      <div class='alert alert-success form-contact-success hidden'>Thanks! Your message has been successfully sent!</div>
+                      <div class='alert alert-danger form-contact-error hidden'>Ooops! There was an error sending your message.</div>
+                    </div>
+                  </div>
+                  <div class='row'>
+                    <div class='col-sm-6'>
+                      <div class='form-group control-group'>
+                        <input class='form-control' data-rule-required='true' name='name' placeholder='Name' type='text'>
+                        <!-- / this field is required for simple anti spam function, don't remove it! -->
+                        <input class='form-control' name='human' placeholder='Are you human?' style='display: none;' type='text'>
+                      </div>
+                    </div>
+                    <div class='col-sm-6'>
+                      <div class='form-group control-group'>
+                        <input class='form-control' data-rule-email='true' data-rule-required='true' name='email' placeholder='E-Mail' type='email'>
+                      </div>
+                    </div>
+                  </div>
+                  <div class='row'>
+                    <div class='col-sm-12'>
+                      <div class='form-group control-group'>
+                        <textarea class='form-control' data-rule-required='true' name='message' placeholder='Your message...'></textarea>
+                      </div>
+                    </div>
+                  </div>
+                  <div class='row'>
+                    <div class='col-sm-12'>
+                      <button class='btn btn-contrast btn-block form-contact-submit' data-loading-text="&lt;i class='fa-icon-refresh fa-icon-spin'&gt;&lt;/i&gt; Sending..." type='submit'>
+                        Send message
+                      </button>
+                    </div>
+                  </div>
+                </form>
               </div>
             </div>
             <div class='row'>
@@ -130,51 +168,7 @@
                   </div>
                 </div>
               </div>
-            </div>
-            <div class='row'>
-              <div class='col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2'>
-                <div class='page-header page-header-with-icon'>
-                  <i class='fa-icon-envelope-alt'></i>
-                  <h2>Contact form</h2>
-                </div>
-                <form class='form form-validation form-contact' method='post'>
-                  <div class='row'>
-                    <div class='col-sm-12'>
-                      <div class='alert alert-success form-contact-success hidden'>Thanks! Your message has been successfully sent!</div>
-                      <div class='alert alert-danger form-contact-error hidden'>Ooops! There was an error sending your message.</div>
-                    </div>
-                  </div>
-                  <div class='row'>
-                    <div class='col-sm-6'>
-                      <div class='form-group control-group'>
-                        <input class='form-control' data-rule-required='true' name='name' placeholder='Name' type='text'>
-                        <!-- / this field is required for simple anti spam function, don't remove it! -->
-                        <input class='form-control' name='human' placeholder='Are you human?' style='display: none;' type='text'>
-                      </div>
-                    </div>
-                    <div class='col-sm-6'>
-                      <div class='form-group control-group'>
-                        <input class='form-control' data-rule-email='true' data-rule-required='true' name='email' placeholder='E-Mail' type='email'>
-                      </div>
-                    </div>
-                  </div>
-                  <div class='row'>
-                    <div class='col-sm-12'>
-                      <div class='form-group control-group'>
-                        <textarea class='form-control' data-rule-required='true' name='message' placeholder='Your message...'></textarea>
-                      </div>
-                    </div>
-                  </div>
-                  <div class='row'>
-                    <div class='col-sm-12'>
-                      <button class='btn btn-contrast btn-block form-contact-submit' data-loading-text="&lt;i class='fa-icon-refresh fa-icon-spin'&gt;&lt;/i&gt; Sending..." type='submit'>
-                        Send message
-                      </button>
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
+            </div>            
           </div>
         </div>
         <div class='fade' id='scroll-to-top'>
@@ -228,40 +222,3 @@
     <script src="assets/javascripts/plugins/cycle/jquery.cycle.all.min.js" type="text/javascript"></script>
     <script src="assets/javascripts/jednotka.js" type="text/javascript"></script>
     <script src="http://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script>
-    <script>
-      var initializeMap;
-      
-      initializeMap = function() {
-        var iw1, latlng, map, marker, options;
-      
-        latlng = new google.maps.LatLng(37.331686, -122.030656);
-        options = {
-          scrollwheel: false,
-          zoom: 16,
-          center: latlng,
-          mapTypeId: google.maps.MapTypeId.ROADMAP,
-          mapTypeControl: true
-        };
-      
-        map = new google.maps.Map(document.getElementById("map-canvas"), options);
-      
-        marker = new google.maps.Marker({
-          position: latlng,
-          map: map
-        });
-      
-        iw1 = new google.maps.InfoWindow({
-          content: "Here we are!"
-        });
-      
-        return google.maps.event.addListener(marker, "click", function(e) {
-          return iw1.open(map, this);
-        });
-      };
-      
-      google.maps.event.addDomListener(window, 'load', initializeMap);
-    </script>
-    <!-- / not required javascripts -->
-    <script src="assets/javascripts/demo.js" type="text/javascript"></script>
-  </body>
-</html>

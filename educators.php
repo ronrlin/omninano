@@ -179,7 +179,7 @@
                 </div>
                 <div class='col-sm-12'>
                   <div class='text-center-xs'>
-                    <a class='btn btn-block btn-contrast' href='contact.php'>Apply for information</a>
+                    <a class='btn btn-block btn-contrast' href='contact_us.php'>Apply for information</a>
                   </div>
                 </div>
               </div>
@@ -263,7 +263,7 @@
                 </div>
                 <div class='col-sm-12'>
                   <div class='text-center-xs'>
-                    <a class='btn btn-block btn-contrast' href='contact.php'>Apply for information</a>
+                    <a class='btn btn-block btn-contrast' href='contact_us.php'>Apply for information</a>
                   </div>
                 </div>
               </div>              
