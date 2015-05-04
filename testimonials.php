@@ -126,7 +126,7 @@
                       <div class='item quote'>
                         <div class='col-sm-12 text-center'>
                           <p class='lead'>
-Dr. Marco Curreli gave a fascinating and inspiring presentation to our club members. He captivated our teenage club members, demonstrating various examples of the applications of nanotechnology. Marco blended lecture with video clips and tangible demonstrations that widened eyes and dropped jaws."
+                              Dr. Marco Curreli gave a fascinating and inspiring presentation to our club members. He captivated our teenage club members, demonstrating various examples of the applications of nanotechnology. Marco blended lecture with video clips and tangible demonstrations that widened eyes and dropped jaws."
                           </p>
                           <div class='author-wrapper'>
                             <p class='author'>
@@ -209,6 +209,9 @@ Dr. Marco Curreli gave a fascinating and inspiring presentation to our club memb
                       <li data-slide-to='3' data-target='#carousel-testimonials'></li>
                       <li data-slide-to='4' data-target='#carousel-testimonials'></li>
                       <li data-slide-to='5' data-target='#carousel-testimonials'></li>
+                      <li data-slide-to='6' data-target='#carousel-testimonials'></li>
+                      <li data-slide-to='7' data-target='#carousel-testimonials'></li>
+                      <li data-slide-to='8' data-target='#carousel-testimonials'></li>
                     </ol>
                   </div>
                 </div>

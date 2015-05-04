@@ -174,12 +174,12 @@
               </div>
               <hr class='hr-half hr-invisible'>
               <div class='row'>
-                <div class='col-sm-12'>
+<!--                <div class='col-sm-12'>
                   <div class='well'><center><strong>Bring a Discover workshop to your school!</strong></center></div>
-                </div>
+                </div> -->
                 <div class='col-sm-12'>
                   <div class='text-center-xs'>
-                    <a class='btn btn-block btn-contrast' href='contact_us.php'>Apply for information</a>
+                    <a class='btn btn-block btn-contrast' href='contact_us.php'>Bring a Discover workshop to your school!</a>
                   </div>
                 </div>
               </div>

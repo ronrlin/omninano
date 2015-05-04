@@ -138,10 +138,10 @@
                     </p>   
 
                     <p class='lead lead-sm'>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu justo vitae odio rhoncus pulvinar. Morbi ac congue orci. Nulla tristique ultrices purus vel egestas. Aliquam viverra volutpat facilisis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin commodo sit amet eros non dapibus. Aenean vitae fermentum diam.
+                      Nanomedicine is currently being applied in one of two ways--imaging of biological systems and delivery of drugs.  Nanoparticles are nano-sized delivery vehicles for medications to be introduced into blood or tissues for delivery to a specific target.  Nanoparticles are unique not simply because they are small and able to encapsulate a drug for delivery; nanoparticles are also able to be engineered with surface proteins that can evade or cooperate with immune systems, which can avoid many complications caused by immuno-responses.
                     </p>
                     <hr class='hr-invisible hr-half'>
-                    <p class='lead'>Aliquam viverra volutpat facilisis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin commodo sit amet eros non dapibus. Aenean vitae fermentum diam.</p>
+                    <p class='lead'>Nanomedicine is employing unique properties of nanoparticles and nanomaterials to improve the specificity of drugs for delivery, and creating new improved methods for imaging and resolving important features in biological systems.</p>
                   </div>
                 </div>
                 <div class='row'>
