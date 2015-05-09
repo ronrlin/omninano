@@ -116,9 +116,10 @@
                     </div>
                     <h3>Address</h3>
                     <ul class='list-unstyled'>
-                      <li>4567/15 Street name</li>
-                      <li>012 34 City name</li>
-                      <li>Country name</li>
+                      <li>11835 West Olympic Boulevard</li>
+                      <li>Suite 1155-E</li> 
+                      <li>Los Angeles, CA 90064 </li>
+                      <li>USA</li>
                     </ul>
                   </div>
                   <div class='col-sm-3'>
@@ -128,8 +129,6 @@
                     <h3>Telephone</h3>
                     <ul class='list-unstyled'>
                       <li><a href="tel:+012345678910">+012 345 678 910</a></li>
-                      <li><a href="tel:+012345678911">+012 345 678 911</a></li>
-                      <li><a href="tel:+012345678911">+012 345 678 911</a></li>
                     </ul>
                   </div>
                   <div class='col-sm-3'>
@@ -138,9 +137,7 @@
                     </div>
                     <h3>E-Mail</h3>
                     <ul class='list-unstyled'>
-                      <li><a href="mailto:info@domain.com">info@domain.com</a></li>
-                      <li><a href="mailto:support@domain.com">support@domain.com</a></li>
-                      <li><a href="mailto:director@domain.com">director@domain.com</a></li>
+                      <li><a href="mailto:info@domain.com">info@omninano.org</a></li>
                     </ul>
                   </div>
                   <div class='col-sm-3'>

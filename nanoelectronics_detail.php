@@ -122,26 +122,23 @@
                   <div class='col-sm-12'>
                     <h2 class='no-mg-t'>Nanoelectronics</h2>
                     <p class='lead'>
-                      Technology is the use of natural phenomena to do useful things.  
+                      The basis of the modern information age is sure electronics and the advent of the microchip.  
                     </p>
 
                     <p class='lead lead-sm'>
-                      It's of course no surprise then that material science has been the most prominent way in which humans have defined their application of technology throughout history.  In fact, past epochs are often characterized by the singular material development of that era--the Stone Age, the Bronze Age and so forth.
+                      Whether it's through copper wires or gold-etched circuits etched into silicon, electricity courses through most everything around us.
                     </p>
 
                     <p class='lead lead-sm'>
-                      Mastery of materials has usually employed "top-down" approaches to creating materials.  This means that many many atoms might be brought together and melted.  The resulting product is often a material that is actually "disordered".  
+                      Rapid advancements have allowed for basic electronic components to shrink dramatically in size while exploding in power.  But the traditional methods for fabricating microchips and minitiarizing electronics are reaching a critical threshold.  Many scientists believe that the "top-down" approaches used for the past half-century are reaching their limit.  
                     </p>
 
                     <p class='lead lead-sm'>
-                      Nanomaterials are often materials developed where there is control over the placement of individual atoms or molecules that comprise a material.  This is a revolutionary development.  
+                      Nanoelectronics is the application of a "bottom-up" approach to assembling electronic devices, overcoming the "diffraction" limit and allowing electronic components to further miniaturized.  Nanoelectronics may even be applied in remarkable ways to enable a new generation of computing devices, called quantum computers.
                     </p>   
 
-                    <p class='lead lead-sm'>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu justo vitae odio rhoncus pulvinar. Morbi ac congue orci. Nulla tristique ultrices purus vel egestas. Aliquam viverra volutpat facilisis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin commodo sit amet eros non dapibus. Aenean vitae fermentum diam.
-                    </p>
                     <hr class='hr-invisible hr-half'>
-                    <p class='lead'>Aliquam viverra volutpat facilisis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin commodo sit amet eros non dapibus. Aenean vitae fermentum diam.</p>
+                    <p class='lead'>Ultimately, nanoelectronics will largely combine novel nanomaterials and a keen understanding of electricity to create new kinds of electronic devices that can transmit electricity more efficiently than ever before, opening the door to new and exciting applications..</p>
                   </div>
                 </div>
                 <div class='row'>
