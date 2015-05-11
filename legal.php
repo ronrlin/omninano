@@ -48,31 +48,32 @@
                   </h2>                  
                 </div>
               </div>
+            </div>
+            <div class='row'>            
               <div class='col-sm-6 panel-item'>
-                <a class='panel panel-circle-contrast' href='#'>
-                  <div class='panel-body'>
-                    <h2 class='panel-title'>Your Support</h2>
-                    <p>
-                      Your support for Omni Nano goes towards the following:
-                      <ul>
-                        <li>Allows us to continue offering Discover workshops free to schools</li>
-                        <li>Supports development of the Omni Nano Curriculum</li>
-                        <li>Expands our training programs so we can offer Discover workshops nationwide</li>
-                        <li>Support development of digital materials and demonstrations The Curriculum</li>
-                      </ul>
-                    </p>
-                  </div>
-                </a>
+                <div class='panel panel-circle-contrast panel-body'>
+                  <h2 class='panel-title'>Your Support Helps Us</h2>
+                  <p>
+                    <ul>
+                      <li>Supports our FREE Discover workshops for schools</li>
+                      <li>Supports further development of the Omni Nano Curriculum</li>
+                      <li>Expands our training programs so we can offer Discover workshops nationwide</li>
+                      <li>Support the development of digital resources for science educators</li>
+                      <li>... and MUCH more!</li>
+                    </ul>
+                  </p>
+                </div>
               </div>
               <div class='col-sm-6 panel-item'>
-                <a class='panel panel-circle-contrast' href='#'>
-                  <div class='panel-body'>
-                    <h2 class='panel-title'>Tax Deductible</h2>
-                    <p>
-                      All donations are tax-deductible to the extent allowed by law. Omni Nano provides a tax substantiation letter for every donation of $250 or more.  
-                    </p>
-                  </div>
-                </a>
+                <div class='panel panel-circle-contrast panel-body'>
+                  <h2 class='panel-title'>Your Support is <strong>Tax Deductible</strong></h2>
+                  <p>
+                    All donations are tax-deductible to the extent allowed by law. Omni Nano provides a tax substantiation letter for every donation of $250 or more.                        
+                  </p>
+                  <p>
+                    <a href="contact_us.php">Click here</a> to request a tax substantiation letter. 
+                  </p>
+                </div>
               </div>              
             </div>
 

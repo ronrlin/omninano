@@ -63,10 +63,10 @@
             </div>
             <div class='row portfolio-boxes' id='portfolio-container'>
               <div class='col-sm-4 portfolio-box portfolio-filter-intro-nanoscale portfolio-item'>
-                <a href='portfolio_detail.php'>
+                <a href='http://omninano.slides.com/omninano/what-is-nanotechnology#/' target="_blank">
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="360" height="235" src="assets/images/demo/portfolio/1.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="360" height="235" src="assets/images/misc/omninano-coverslide.jpg" />
                   </div>
                   <h3 class='title'>What is Nanotechnology?</h3>
                   <p class='category'>Introduction to the Nanoscale</p>
@@ -76,7 +76,7 @@
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Malesuada" width="360" height="235" src="assets/images/demo/portfolio/2.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="materials" width="360" height="235" src="assets/images/misc/bridge-grids.jpg" />
                   </div>
                   <h3 class='title'>What are Nanomaterials?</h3>
                   <p class='category'>Introduction to the Nanoscale</p>
@@ -96,7 +96,7 @@
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Semper massa" width="360" height="235" src="assets/images/demo/portfolio/4.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="Semper massa" width="360" height="235" src="assets/images/demo/portfolio/9.jpg" />
                   </div>
                   <h3 class='title'>Imaging the Nanoscale</h3>
                   <p class='category'>Investigating Nanomaterials</p>
@@ -106,7 +106,7 @@
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Lorem ipsum" width="360" height="235" src="assets/images/demo/portfolio/5.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="Lorem ipsum" width="360" height="235" src="assets/images/misc/surface-properties.jpg" />
                   </div>
                   <h3 class='title'>Properties of Nanomaterials</h3>
                   <p class='category'>Investigating Nanomaterials</p>
@@ -116,7 +116,7 @@
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Pellentesque" width="360" height="235" src="assets/images/demo/portfolio/6.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="Pellentesque" width="360" height="235" src="assets/images/misc/surface-properties.jpg" />
                   </div>
                   <h3 class='title'>High Surface Materials</h3>
                   <p class='category'>Applications for Nanotechnology</p>
@@ -126,7 +126,7 @@
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Malesuada" width="360" height="235" src="assets/images/demo/portfolio/7.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="Malesuada" width="360" height="235" src="assets/images/misc/neon.jpg" />
                   </div>
                   <h3 class='title'>Electronic and Optical Properties</h3>
                   <p class='category'>Investigating Nanomaterials</p>
@@ -136,7 +136,7 @@
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Cullamcorper" width="360" height="235" src="assets/images/demo/portfolio/8.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="Cullamcorper" width="360" height="235" src="assets/images/misc/leaf-harvest.jpg" />
                   </div>
                   <h3 class='title'>Light and Energy Harvesting</h3>
                   <p class='category'>Applications for Nanotechnology</p>
@@ -146,7 +146,7 @@
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Etiam posuere" width="360" height="235" src="assets/images/demo/portfolio/9.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="Etiam posuere" width="360" height="235" src="assets/images/misc/diagnostics.jpg" />
                   </div>
                   <h3 class='title'>Diagnostic Applications in Medicine</h3>
                   <p class='category'>Applications for Nanotechnology</p>
@@ -166,7 +166,7 @@
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Etiam posuere" width="360" height="235" src="assets/images/demo/portfolio/9.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="Etiam posuere" width="360" height="235" src="assets/images/misc/smelting.jpg" />
                   </div>
                   <h3 class='title'>Top-down Fabrication</h3>
                   <p class='category'>Building Nanomaterials</p>
