@@ -23,6 +23,7 @@
     <link href="assets/stylesheets/jednotka_blue.css" media="all" id="colors" rel="stylesheet" type="text/css" />
     <!-- / not required stylesheets -->
     <link href="assets/stylesheets/demo.css" media="all" rel="stylesheet" type="text/css" />
+    <?php include_once("analyticstracking.php") ?>
     <!--[if lt IE 9]>
       <script src="assets/javascripts/ie/html5shiv.js" type="text/javascript"></script>
       <script src="assets/javascripts/ie/respond.min.js" type="text/javascript"></script>

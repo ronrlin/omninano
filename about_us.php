@@ -23,6 +23,7 @@
     <link href="assets/stylesheets/jednotka_blue.css" media="all" id="colors" rel="stylesheet" type="text/css" />
     <!-- / not required stylesheets -->
     <link href="assets/stylesheets/demo.css" media="all" rel="stylesheet" type="text/css" />
+    <?php include_once("analyticstracking.php") ?>
     <!--[if lt IE 9]>
       <script src="assets/javascripts/ie/html5shiv.js" type="text/javascript"></script>
       <script src="assets/javascripts/ie/respond.min.js" type="text/javascript"></script>
@@ -174,7 +175,7 @@
                         <div class='col-sm-8'>
                           <h3 class='name'>Dr. Marco Curreli</h3>
                           <h4 class='position'>Executive Director and Founder</h4>
-                          <p>Dr. Curelli is the Executive Director and Founder of Omni Nano. Dr. Curelli founded Omni Nano in 2012 after completing his doctoral research at the University of Southern California, where he specialized in surface modifications of nanomaterials. After completing his studies, Marco dedicated himself to developing a nanotechnology curriculum to inspire the next generation of scientists.</p>
+                          <p>Dr. Curelli is the Executive Director and Founder of Omni Nano. Dr. Curelli founded Omni Nano in 2012 after completing his doctoral research at the University of Southern California, where he specialized in surface modifications of nanomaterials. After completing his studies, Marco dedicated himself to developing a nanotechnology curriculum to inspire the next generation of scientists. </p>
                           <div class='links'>
                             <a class='btn btn-medium-light btn-sm btn-circle' href='https://www.linkedin.com/pub/marco-curreli/11/2a9/814'>
                               <i class='fa-icon-linkedin'></i>
