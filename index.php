@@ -193,37 +193,37 @@
                   <div class='col-sm-3 col-xs-6 no-mb-t-xs portfolio-box'>
                     <a class='image-link' href='nanoscale_detail.php'>
                       <i class='fa-icon-search'></i>
-                      <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="262" height="262" src="assets/images/misc/nanoscale.jpg" />
+                      <img class="img-responsive img-rounded center-block" alt="introduction to nanoscale science" width="262" height="262" src="assets/images/misc/nanoscale.jpg" />
                     </a>
                     <h3 class='title'>The Nanoscale</h3>
-                    <p class='category'>Introduction to the science of the small-scale.</p>
+                    <p class='category'>What is the science of the small-scale?</p>
                   </div>
                   <div class='col-sm-3 col-xs-6 no-mb-t-xs portfolio-box'>
                     <a class='image-link' href='nanomaterials_detail.php'>
-                      <i class='fa-icon-link'></i>
+                      <i class='fa-icon-building'></i>
                       <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="262" src="assets/images/misc/nanomaterials.jpg" />
                     </a>
                     <h3 class='title'>Nanomaterials</h3>
-                    <p class='category'>Explore materials science and how nanotechnology is key to creating materials with totally new properties!</p>
+                    <p class='category'>Strong and lightweight materials.</p>
                   </div>
                   <div class='col-sm-3 col-xs-6 portfolio-box'>
                     <a href='nanomedicine_detail.php'>
                       <div class='image-link'>
-                        <i class='fa-icon-search'></i>
+                        <i class='fa-icon-user-md'></i>
                         <img class="img-responsive img-rounded center-block" alt="Dictum vulputate" width="262" height="262" src="assets/images/misc/nanomedicine.jpg" />
                       </div>
                       <h3 class='title'>Nanomedicine</h3>
-                      <p class='category'>Biology is the original nanoscience!  Learn how molecular machines are now being used and how they'll impact human health.</p>
+                      <p class='category'>Biology is the original nanoscience!</p>
                     </a>
                   </div>
                   <div class='col-sm-3 col-xs-6 portfolio-box'>
                     <a href='nanoelectronics_detail.php'>
                       <div class='image-link'>
-                        <i class='fa-icon-search'></i>
+                        <i class='fa-icon-off'></i>
                         <img class="img-responsive img-rounded center-block" alt="Semper massa" width="262" height="262" src="assets/images/misc/energy-storage.jpg" />
                       </div>
                       <h3 class='title'>Nanoelectronics</h3>
-                      <p class='category'>Learn about how nanotech is transforming electronics, circuits and more!</p>
+                      <p class='category'>How it'll transform electronics.</p>
                     </a>
                   </div>
                 </div>
@@ -303,9 +303,22 @@
             <div class='row'>
               <div class='col-sm-12'>
                 <div class='page-header page-header-with-icon'>
+                  <i class='fa-icon-gift'></i>
+                  <h2>
+                    We need your support!
+                    <small>Help us inspire the next generation of technologists, scientists and entrepreneurs.</small>
+                  </h2>
+                </div>
+                <div class='row'>
+                  <div class='col-sm-12'>
+                    <div class='text-center-xs'>
+                      <a class='btn btn-block btn-contrast' href='donate.php'>Donate</a>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
+            </div> 
+
 
           </div>
         </div>
