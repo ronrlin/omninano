@@ -32,7 +32,7 @@
           <p><a href="partnerships.php">Partnerships</a></p>
           <p><a href="awards.php">Awards</a></p> 
           <p><a href="press.php">Media Relations</a></p>
-          <p><a href="#">Blog</a></p>                  
+          <p><a href="http://omninano-blog.tumblr.com/">Blog</a></p>                  
         </div>
       </div>
     </div>
