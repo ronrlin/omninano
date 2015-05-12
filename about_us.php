@@ -82,7 +82,7 @@
                 </div>
                 <div class='row panels'>
                   <div class='col-sm-4 panel-item'>
-                    <a class='panel panel-circle-contrast' href='#'>
+                    <div class='panel panel-circle-contrast'>
                       <div class='panel-icon'>
                         <i class='fa-icon-group icon'></i>
                       </div>
@@ -90,10 +90,10 @@
                         <h3 class='panel-title'>Student-centric</h3>
                         <p>We haven't always been teachers.  We were once students, inspired by teachers who introduced us to the power of knowledge at an early age.</p>
                       </div>
-                    </a>
+                    </div>
                   </div>
                   <div class='col-sm-4 panel-item'>
-                    <a class='panel panel-circle-contrast' href='#'>
+                    <div class='panel panel-circle-contrast'>
                       <div class='panel-icon'>
                         <i class='fa-icon-beaker icon'></i>
                       </div>
@@ -101,10 +101,10 @@
                         <h3 class='panel-title'>Love of Science</h3>
                         <p>It's said that knowledge is power.  We want to empower every science educator with the tools to introduce the most cutting edge advances in nanotechnology right into their classrooms! </p>
                       </div>
-                    </a>
+                    </div>
                   </div>
                   <div class='col-sm-4 panel-item'>
-                    <a class='panel panel-circle-contrast' href='#'>
+                    <div class='panel panel-circle-contrast' href='#'>
                       <div class='panel-icon'>
                         <i class='fa-icon-rocket icon'></i>
                       </div>
@@ -112,7 +112,7 @@
                         <h3 class='panel-title'>Proven Results</h3>
                         <p>Our nanotechnology curriculum emphasizes hands-on learning, and exposes young students to topics relevant for tackling some of the greatest social and scientific challenges of the coming decades.</p>
                       </div>
-                    </a>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -133,14 +133,14 @@
                           <input class='hidden' data-fgColor='#8dc153' data-readOnly='true' data-stat='circle' data-thickness='0.20' type='text' value='25'>
                           <p class='percent'>40 Workshops</p>
                         </div>
-                        <h3 class='title'>Over 40 workshops have been administered by Omni Nano in the Los Angeles area.</h3>
+                        <h3 class='title'>We've done over 40 workshops in the Los Angeles area since 2013.</h3>
                       </li>
                       <li>
                         <div class='circle-stat-wrapper'>
                           <input class='hidden' data-fgColor='#8dc153' data-readOnly='true' data-stat='circle' data-thickness='0.20' type='text' value='33'>
                           <p class='percent'>33% increase</p>
                         </div>
-                        <h3 class='title'>We've measured a 33% increase in student interest in pursuing a career in science after attending an Omni Nano program!</h3>
+                        <h3 class='title'>Our students report a 33% increase in interest in pursuing a career in science after attending an Omni Nano program!</h3>
                       </li>
                       <li>
                         <div class='circle-stat-wrapper'>
@@ -225,31 +225,31 @@
                   <div class='col-sm-12'>
                     <ol class='timeline'>
                       <li>
-                        <div class='image'><img alt="2013" width="120" height="120" src="assets/images/demo/timeline/cyclist.jpg" /></div>
+                        <div class='image'><img alt="2013" width="120" height="120" src="assets/images/misc/marco.jpg" /></div>
                         <p class='time'>December 2012</p>
                         <h3 class='title'>Dr. Marco Curelli creates Omni Nano.</h3>
                         <p>After completing several years of nanotechnology research as a student and researcher at USC, Dr. Curelli decides education is his passion and sets off on creating a nanotechnology curriculum for inspiring young scientists.</p>
                       </li>
                       <li>
-                        <div class='image'><img alt="2012" width="120" height="120" src="assets/images/demo/timeline/wipe_ears.jpg" /></div>
+                        <div class='image'><img alt="2012" width="120" height="120" src="assets/images/misc/Boys-and-Girls-Club-nanotechnology-workshop-OmniNano-02.jpg" /></div>
                         <p class='time'>September 2013</p>
                         <h3 class='title'>First Discover workshop</h3>
                         <p>After almost a year of assembling materials, initial funding and support, Omni Nano hosts its first Discover workshop.</p>
                       </li>
                       <li>
-                        <div class='image'><img alt="2011" width="120" height="120" src="assets/images/demo/timeline/hat.jpg" /></div>
+                        <div class='image'><img alt="2011" width="120" height="120" src="assets/images/misc/Archer-Nanotechnology-Workshop-OmniNano-01.jpg" /></div>
                         <p class='time'>January 2014</p>
                         <h3 class='title'>First nanotechnology course</h3>
                         <p>The first nanotechnology course developed by Omni Nano begins at XX School in Los Angeles.</p>
                       </li>
                       <li>
-                        <div class='image'><img alt="2012" width="120" height="120" src="assets/images/demo/timeline/wipe_ears.jpg" /></div>
+                        <div class='image'><img alt="2012" width="120" height="120" src="assets/images/misc/alhambra-logo.jpg" /></div>
                         <p class='time'>August 2014</p>
                         <h3 class='title'>14th Workshop</h3>
                         <p>Omni Nano reaches its first year milestones, with 14 workshops and over 450 students inspired!</p>
                       </li>
                       <li>
-                        <div class='image'><img alt="2011" width="120" height="120" src="assets/images/demo/timeline/hat.jpg" /></div>
+                        <div class='image'><img alt="2011" width="120" height="120" src="assets/images/misc/patrick+marco.jpg" /></div>
                         <p class='time'>November 2014</p>
                         <h3 class='title'>Award-winning!</h3>
                         <p>Omni Nano earns a nomination from the Los Angeles Business Journal as most innovative new non-profit.</p>

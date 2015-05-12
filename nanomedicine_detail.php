@@ -170,7 +170,7 @@
                             <div class='col-sm-4 portfolio-box'>
                               <a href='portfolio_detail.php'>
                                 <div class='image-link'>
-                                  <i class='fa-icon-link'></i>
+                                  <i class='fa-icon-user-md'></i>
                                   <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="100" src="assets/images/misc/nanobiosensors-Omni-Nano_01.jpg" />
                                 </div>
                                 <h3 class='title'>Nanomedicine</h3>
@@ -180,7 +180,7 @@
                             <div class='col-sm-4 portfolio-box'>
                               <a href='portfolio_detail.php'>
                                 <div class='image-link'>
-                                  <i class='fa-icon-search'></i>
+                                  <i class='fa-icon-off'></i>
                                   <img class="img-responsive img-rounded center-block" alt="nanoelectronics" width="262" height="171" src="assets/images/misc/neon.jpg" />
                                 </div>
                                 <h3 class='title'>Nanoelectronics</h3>
