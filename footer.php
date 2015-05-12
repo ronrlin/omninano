@@ -12,7 +12,7 @@
       <div class='col-md-3 col-sm-6 info-box'>
         <h2 class='title'>For Educators</h2>
         <div>
-          <p><a href="educators.php">Discover Program</a></p>
+          <p><a href="educators.php#Discover">Discover Program</a></p>
           <p><a href="educators.php#Bridges">Bridges Program</a></p>
           <p><a href="educators.php#Curriculum">The Curriculum</a></p>
           <p><a href="testimonials.php">Testimonials</a></p>                  
