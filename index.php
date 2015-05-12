@@ -114,7 +114,7 @@
             <div class='panels-wrapper'>
               <div class='row panels'>
                 <div class='col-sm-4 panel-item'>
-                  <a class='panel panel-image' href='educators.php'>
+                  <a class='panel panel-image' href='educators.php#Discover'>
                     <div class='panel-icon'>
                       <i class='fa-icon-search icon'></i>
                     </div>
@@ -136,7 +136,7 @@
                   </a>
                 </div>
                 <div class='col-sm-4 panel-item'>
-                  <a class='panel panel-image' href='educators.php'>
+                  <a class='panel panel-image' href='educators.php#Bridges'>
                     <div class='panel-icon'>
                       <i class='fa-icon-bolt icon'></i>
                     </div>
@@ -157,7 +157,7 @@
                   </a>
                 </div>
                 <div class='col-sm-4 panel-item'>
-                  <a class='panel panel-image' href='educators.php'>
+                  <a class='panel panel-image' href='educators.php#Curriculum'>
                     <div class='panel-icon'>
                       <i class='fa-icon-book icon'></i>
                     </div>
