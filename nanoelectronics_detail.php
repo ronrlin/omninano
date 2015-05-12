@@ -159,52 +159,37 @@
                               <a href='portfolio_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-search'></i>
-                                  <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="262" height="171" src="assets/images/demo/portfolio/1.jpg" />
+                                  <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="262" height="171" src="assets/images/misc/surface-properties.jpg" />
                                 </div>
-                                <h3 class='title'>The Nanoscale</h3>
-                                <p class='category'>Photography</p>
+                                <h3 class='title'>Nanomaterials</h3>
+                                <p class='category'>Nanoscience is changing material science.</p>
                               </a>
                             </div>
                             <div class='col-sm-4 portfolio-box'>
                               <a href='portfolio_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-link'></i>
-                                  <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="171" src="assets/images/demo/portfolio/2.jpg" />
+                                  <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="100" src="assets/images/misc/nanobiosensors-Omni-Nano_01.jpg" />
                                 </div>
                                 <h3 class='title'>Nanomedicine</h3>
-                                <p class='category'>Webdesign</p>
+                                <p class='category'>Medical applications for nanotechnology.</p>
                               </a>
                             </div>
                             <div class='col-sm-4 portfolio-box'>
                               <a href='portfolio_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-search'></i>
-                                  <img class="img-responsive img-rounded center-block" alt="Dictum vulputate" width="262" height="171" src="assets/images/demo/portfolio/3.jpg" />
+                                  <img class="img-responsive img-rounded center-block" alt="nanoelectronics" width="262" height="171" src="assets/images/misc/neon.jpg" />
                                 </div>
                                 <h3 class='title'>Nanoelectronics</h3>
-                                <p class='category'>Identity</p>
-                              </a>
-                            </div>
-                          </div>
-                          <div class='item'>
-                            <div class='col-sm-4 portfolio-box'>
-                              <a href='portfolio_detail.php'>
-                                <div class='image-link'>
-                                  <i class='fa-icon-search'></i>
-                                  <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="171" src="assets/images/demo/portfolio/7.jpg" />
-                                </div>
-                                <h3 class='title'>Malesuada</h3>
-                                <p class='category'>Webdesign</p>
+                                <p class='category'>Electronics and a whole new kind of world.</p>
                               </a>
                             </div>
                           </div>
                         </div>
-                        <ol class='carousel-indicators'>
-                          <li class='active' data-slide-to='0' data-target='#carousel-related-work'></li>
-                          <li data-slide-to='1' data-target='#carousel-related-work'></li>
-                        </ol>
                       </div>
                     </div>
+                    
                   </div>
                 </div>
               </div>
