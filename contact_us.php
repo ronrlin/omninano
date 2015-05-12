@@ -111,58 +111,40 @@
                   </h2>
                 </div>
                 <div class='row text-center'>
-                  <div class='col-sm-3'>
+                  <div class='col-md-4'>
                     <div class='icon-wrap icon-circle contrast-bg icon-md'>
                       <i class='fa-icon-map-marker text-white'></i>
                     </div>
                     <h3>Address</h3>
-                    <ul class='list-unstyled'>
-                      <li>11835 West Olympic Boulevard</li>
-                      <li>Suite 1155-E</li> 
-                      <li>Los Angeles, CA 90064 </li>
-                      <li>USA</li>
-                    </ul>
+                    <p class='text-center'>
+                      11835 West Olympic Boulevard
+                      <br />Suite 1155-E
+                      <br />Los Angeles, CA 90064
+                    </p>
                   </div>
-                  <div class='col-sm-3'>
+                  <div class='col-md-4'>
                     <div class='icon-wrap icon-circle contrast-bg icon-md'>
-                      <i class='fa-icon-phone text-white'></i>
+                      <i class='fa-icon-envelope text-white'></i>
                     </div>
-                    <h3>Telephone</h3>
-                    <ul class='list-unstyled'>
-                      <li><a href="tel:+012345678910">+012 345 678 910</a></li>
-                    </ul>
-                  </div>
-                  <div class='col-sm-3'>
-                    <div class='icon-wrap icon-circle contrast-bg icon-md'>
-                      <i class='fa-icon-envelope-alt text-white'></i>
-                    </div>
-                    <h3>E-Mail</h3>
+                    <h3>Email</h3>
                     <ul class='list-unstyled'>
                       <li><a href="mailto:info@domain.com">info@omninano.org</a></li>
                     </ul>
                   </div>
-                  <div class='col-sm-3'>
+                  <div class='col-md-4'>
                     <div class='icon-wrap icon-circle contrast-bg icon-md'>
-                      <i class='fa-icon-time text-white'></i>
+                      <i class='fa-icon-gift text-white'></i>
                     </div>
-                    <h3>Business hours</h3>
-                    <ul class='list-unstyled'>
-                      <li>
-                        Monday - Friday
-                        &mdash;
-                        <strong>08:00 - 16:00</strong>
-                      </li>
-                      <li>
-                        Saturday
-                        &mdash;
-                        <strong>Closed</strong>
-                      </li>
-                      <li>
-                        Sunday
-                        &mdash;
-                        <strong>Closed</strong>
-                      </li>
-                    </ul>
+                    <h3>Donations</h3>
+                    <p class="text-justify">
+                      Make checks payable to Omni Nano and provide your current mailing address.
+                    </p>
+                    <p class="text-justify">
+                      If your address is not printed on your checks, or if your check information is not up-to-date, please be sure to provide your current mailing address.
+                    </p>
+                    <p class="text-justify">
+                      Tax receipts will be mailed within four to eight weeks after the donation has been processed.                      
+                    </p>
                   </div>
                 </div>
               </div>

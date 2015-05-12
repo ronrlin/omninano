@@ -124,7 +124,7 @@
                     <div class='panel-body'>
                       <h3 class='panel-title'>Omni Nano Discover</h3>
                       <h5 class='panel-subtitle'><em>One-day workshops</em></h5>
-                      <p style="text-align: justify;">
+                      <p class="text-justify">
                         The Discover program is a free workshop offered to high schools or after-school programs, perfect for exposing audiences to the promise and potential of nanotechnology.  
                         <br /><br />
                         The on-site workshop provides students a hands-on introduction to basic concepts in nanotechnology, includes stimulating demonstrations and videos, and offers students unique insights into recent innovations and applications for nanotechnology! 
@@ -146,7 +146,7 @@
                     <div class='panel-body'>
                       <h3 class='panel-title'>Omni Nano Bridges</h3>
                       <h5 class='panel-subtitle'><em>Multi-day immersive</em></h5>
-                      <p style="text-align: justify;">
+                      <p class="text-justify">
                         The Bridges program is a full-featured introductory course plan featuring the Omni Nano Curriculum.  This program is perfect for schools that are exploring the potential for an applied course in nanotechnology.  
                         <br /><br />
                         Omni Nano Bridges is perfect as an introductory program or for after-school programs, to explore the potential for offering a complete course in your school or district.  
@@ -167,7 +167,7 @@
                     <div class='panel-body'>
                       <h3 class='panel-title'>Omni Nano Curriculum</h3>
                       <h5 class='panel-subtitle'><em>Comprehensive educational resources</em></h5>
-                     <p style="text-align: justify;">
+                      <p class="text-justify">
                         The flagship Omni Nano program is the comprehensive curriculum tailored for the needs of today's science educators.  
                         <br /><br />
                         The Omni Nano curriculum provides an award-winning course plan, including a syllabus, lecture outlines, lecture notes, slideshows, videos, quizzes and interactive demonstrations.  

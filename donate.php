@@ -104,7 +104,7 @@
                   <div class='row'>
                     <div class='col-sm-6'>
                       <div class='text-center-xs'>
-                        <p><strong><a href="">Give by stock or check</a></strong></p>
+                        <p><strong><a href="contact_us.php">Give by stock or check</a></strong></p>
                       </div>
                     </div>
                   </div>
