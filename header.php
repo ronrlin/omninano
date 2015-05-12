@@ -25,10 +25,10 @@
               <a href='educators.php'>Discover Program</a>
             </li>
             <li class=''>
-              <a href='educators.php'>Bridges Program</a>
+              <a href='educators.php#Bridges'>Bridges Program</a>
             </li>
             <li class=''>
-              <a href='educators.php'>The Curriculum</a>
+              <a href='educators.php#Curriculum'>The Curriculum</a>
             </li>
 <!--                    <li>
               <a href='faq.php'>FAQ</a>

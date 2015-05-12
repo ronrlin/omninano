@@ -297,7 +297,7 @@
                 <div class='page-header page-header-with-icon'>
                   <i class='fa-icon-book'></i>
                   <h2>
-                    Omni Nano Curriculum
+                    <a name="Curriculum">Omni Nano Curriculum
                   </h2>
                 </div>
                 <div class='icon-boxes icon-boxes-lg'>
