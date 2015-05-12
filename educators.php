@@ -10,9 +10,9 @@
   <!-- <![endif] -->
   <head>
     <title>Omni Nano - The Curriculum to inspire the scientists, entrepreneurs and engineers of tomorrow!</title>
-    <meta content='blog, business, clean, multipurpose template, twitter bootstrap 3, responsive' name='keywords'>
-    <meta content='Jednotka is multipurpose Twitter Bootstrap 3 template which is suitable for any type of business or online project. ' name='description'>
-    <meta content='BublinaStudio.com' name='author'>
+    <meta content='nanotechnology, nanoscience, nanomedicine, nanobiology, nanomaterials, STEM' name='keywords'>
+    <meta content='Omni Nano is the nanotechnology curriculum for high school students. ' name='description'>
+    <meta content='OmniNano.org' name='author'>
     <meta content='all' name='robots'>
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta content='width=device-width, initial-scale=1.0' name='viewport'>
@@ -260,11 +260,11 @@
               <hr class='hr-half hr-invisible'>
               <div class='row'>
                 <div class='col-sm-12'>
-                  <div class='well'><center><strong>Bridges is an immersive program that works in partnership with your school or after-school program.</strong></center></div>
+                  <div class='well'><center><h2>Bridges is a multi-week immersive program.</h2></center></div>
                 </div>
                 <div class='col-sm-12'>
                   <div class='text-center-xs'>
-                    <a class='btn btn-block btn-contrast' href='contact_us.php'>Apply for information</a>
+                    <a class='btn btn-block btn-contrast' href='contact_us.php'>Learn How Omni Nano works with Schools!</a>
                   </div>
                 </div>
               </div>              
@@ -291,6 +291,71 @@
                 </div>
               </div>
             </div>
+
+            <div class='row'>
+              <div class='col-sm-12'>
+                <div class='page-header page-header-with-icon'>
+                  <i class='fa-icon-book'></i>
+                  <h2>
+                    Omni Nano Curriculum
+                  </h2>
+                </div>
+                <div class='icon-boxes icon-boxes-lg'>
+                  <div class='row'>
+                    <div class='col-sm-6 icon-box'>
+                      <div class='icon icon-wrap icon-circle icon-lg contrast-bg'>
+                        <i class='fa-icon-group text-white'></i>
+                      </div>
+                      <div class='content'>
+                        <h3 class='title'>Course syllabus</h3>
+                        <p>We provide a convenient and comprehensive course syllabus, perfect for designing a multi-week course or after-school program.</p>
+                      </div>
+                    </div>
+                    <div class='col-sm-6 icon-box'>
+                      <div class='icon icon-wrap icon-circle icon-lg contrast-bg'>
+                        <i class='fa-icon-cloud-download text-white'></i>
+                      </div>
+                      <div class='content'>
+                        <h3 class='title'>Lecture notes and course materials</h3>
+                        <p>Bridges is perfect for schools exploring a permanent nanotechnology course employing our Curriculum.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class='row'>
+                    <div class='col-sm-6 icon-box'>
+                      <div class='icon icon-wrap icon-circle icon-lg contrast-bg'>
+                        <i class='fa-icon-edit text-white'></i>
+                      </div>
+                      <div class='content'>
+                        <h3 class='title'>A flexible and customizable curriculum</h3>
+                        <p>We've worked with educators and administrators to incorporate the best ideas and state of the art examples, ideal for educators looking.</p>
+                      </div>
+                    </div>
+                    <div class='col-sm-6 icon-box'>
+                      <div class='icon icon-wrap icon-circle icon-lg contrast-bg'>
+                        <i class='fa-icon-beaker text-white'></i>
+                      </div>
+                      <div class='content'>
+                        <h3 class='title'>Textbook and experimental guides</h3>
+                        <p>Students get hands-on laboratory experience, learning about nanotechnology in theory and in practice!</p>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+              <hr class='hr-half hr-invisible'>
+              <div class='row'>
+                <div class='col-sm-12'>
+                  <div class='well'><h2><center>The Omni Nano Curriculum is free &amp; open source.</center></h2></div>
+                </div>
+                <div class='col-sm-12'>
+                  <div class='text-center-xs'>
+                    <a class='btn btn-block btn-contrast' href='curriculum.php'>Start Browsing the Omni Nano Curriculum</a>
+                  </div>
+                </div>
+              </div>              
+            </div>            
 
             <div class='row'>
               <div class='col-sm-12'>
