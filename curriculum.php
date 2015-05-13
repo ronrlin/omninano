@@ -9,7 +9,7 @@
 <html lang='en'>
   <!-- <![endif] -->
   <head>
-    <title>Curriculum</title>
+    <title>Omni Nano Curriculum</title>
     <meta content='nanotechnology, nanoscience, nanomedicine, nanobiology, nanomaterials, STEM' name='keywords'>
     <meta content='Omni Nano is the nanotechnology curriculum for high school students. ' name='description'>
     <meta content='OmniNano.org' name='author'>

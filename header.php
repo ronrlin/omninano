@@ -22,7 +22,10 @@
           </a>
           <ul class='dropdown-menu' role='menu'>
             <li class=''>
-              <a href='educators.php'>Discover Program</a>
+              <a href='educators.php'>Overview</a>
+            </li>
+            <li class=''>
+              <a href='educators.php#Discover'>Discover Program</a>
             </li>
             <li class=''>
               <a href='educators.php#Bridges'>Bridges Program</a>
