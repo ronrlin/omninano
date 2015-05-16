@@ -66,17 +66,17 @@
                 <a href='http://omninano.slides.com/omninano/what-is-nanotechnology#/' target="_blank">
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="360" height="235" src="assets/images/misc/omninano-coverslide.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="An introduction to nanotechnology" width="360" height="235" src="assets/images/misc/omninano-coverslide.jpg" />
                   </div>
                   <h3 class='title'>What is Nanotechnology?</h3>
                   <p class='category'>Introduction to the Nanoscale</p>
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-intro-nanoscale portfolio-item'>
-                <a href='portfolio_detail.php'>
+                <a href='http://omninano.slides.com/omninano/what-are-nanomaterials'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="materials" width="360" height="235" src="assets/images/misc/bridge-grids.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="nanomaterials" width="360" height="235" src="assets/images/misc/bridge-grids.jpg" />
                   </div>
                   <h3 class='title'>What are Nanomaterials?</h3>
                   <p class='category'>Introduction to the Nanoscale</p>
