@@ -73,7 +73,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-intro-nanoscale portfolio-item'>
-                <a href='http://omninano.slides.com/omninano/what-are-nanomaterials'>
+                <a href='http://omninano.slides.com/omninano/what-are-nanomaterials' target="_blank">
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="nanomaterials" width="360" height="235" src="assets/images/misc/bridge-grids.jpg" />
