@@ -83,7 +83,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-intro-nanoscale portfolio-item'>
-                <a href='portfolio_detail.php'>
+                <a href='http://omninano.slides.com/omninano/uniquenanoscale' target="_blank">
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Dictum vulputate" width="360" height="235" src="assets/images/demo/portfolio/3.jpg" />
@@ -93,7 +93,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-investigating-nanoscale portfolio-item'>
-                <a href='portfolio_detail.php'>
+                <a href='http://omninano.slides.com/omninano/imagingnano' target="_blank">
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Semper massa" width="360" height="235" src="assets/images/demo/portfolio/9.jpg" />
@@ -103,7 +103,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box portfolio-filter-investigating-nanoscale portfolio-item'>
-                <a href='portfolio_detail.php'>
+                <a href='http://omninano.slides.com/omninano/properties' target="_blank">
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Lorem ipsum" width="360" height="235" src="assets/images/misc/surface-properties.jpg" />
