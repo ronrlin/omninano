@@ -3,7 +3,7 @@
 // variables to be modified
 
 $to = "ronrlin@gmail.com";                     // email to which messages from contact form will be delivered
-$subject = "Message from contact form";     // email subject
+$subject = "Message from contact form (omninano.org)";     // email subject
 
 // form variables
 
