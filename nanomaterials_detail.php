@@ -162,7 +162,7 @@
                         <div class='carousel-inner'>
                           <div class='item active'>
                             <div class='col-sm-4 portfolio-box'>
-                              <a href='portfolio_detail.php'>
+                              <a href='nanomaterials_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-search'></i>
                                   <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="262" height="171" src="assets/images/misc/surface-properties.jpg" />
@@ -172,7 +172,7 @@
                               </a>
                             </div>
                             <div class='col-sm-4 portfolio-box'>
-                              <a href='portfolio_detail.php'>
+                              <a href='nanomedicine_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-user-md'></i>
                                   <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="100" src="assets/images/misc/nanobiosensors-Omni-Nano_01.jpg" />
@@ -182,7 +182,7 @@
                               </a>
                             </div>
                             <div class='col-sm-4 portfolio-box'>
-                              <a href='portfolio_detail.php'>
+                              <a href='nanoelectronics_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-off'></i>
                                   <img class="img-responsive img-rounded center-block" alt="nanoelectronics" width="262" height="171" src="assets/images/misc/neon.jpg" />
