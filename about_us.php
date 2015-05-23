@@ -199,8 +199,6 @@
                           <h3 class='name'>Gina Napolitano</h3>
                           <h4 class='position'>Community Outreach</h4>
                           <p>Gina earned a bachelor’s degree in Chemistry from the University of Southern California and has experience developing nanobiosensors for the medical device industry. She is an advocate for STEM education, as she was first inspired by her high school Chemistry teacher.  Gina works to develop exciting nanotechnology curriculum to give students today the same inspiring experience she benefited from first-hand.</p> 
-                          <p>She benefited first-hand from good STEM education, as she was inspired to enter the field by her high school Chemistry teacher. </p>
-                          <p>Being inspired by her high school chemistry teacher, she benefited first-hand from good (valuable, excellent, stimulating) STEM education (educators). Gina works to develop exciting nanotechnology curriculum with Omni Nano </p>
                           <div class='links'>
                             <a class='btn btn-medium-light btn-sm btn-circle' href='https://www.linkedin.com/profile/view?id=124640205&authType=NAME_SEARCH&authToken=icAt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1427905680867%2Ctas%3Agina+'>
                               <i class='fa-icon-linkedin'></i>
