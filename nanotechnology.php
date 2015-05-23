@@ -154,7 +154,7 @@
                   <div class='col-sm-3 col-xs-6 no-mb-t-xs portfolio-box'>
                     <a class='image-link' href='nanoscale_detail.php'>
                       <i class='fa-icon-search'></i>
-                      <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="262" height="262" src="assets/images/misc/nanoscale.jpg" />
+                      <img class="img-responsive img-rounded center-block" alt="The Nanoscale" width="262" height="262" src="assets/images/misc/nanoscale.jpg" />
                     </a>
                     <h3 class='title'>The Nanoscale</h3>
                     <p class='category'>Introduction to the science of the small-scale.</p>
@@ -162,16 +162,16 @@
                   <div class='col-sm-3 col-xs-6 no-mb-t-xs portfolio-box'>
                     <a class='image-link' href='nanomaterials_detail.php'>
                       <i class='fa-icon-link'></i>
-                      <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="262" src="assets/images/misc/nanomaterials.jpg" />
+                      <img class="img-responsive img-rounded center-block" alt="Nanomaterials" width="262" height="262" src="assets/images/misc/nanomaterials.jpg" />
                     </a>
                     <h3 class='title'>Nanomaterials</h3>
                     <p class='category'>Explore materials science and how nanotechnology is key to creating materials with totally new properties!</p>
                   </div>
                   <div class='col-sm-3 col-xs-6 portfolio-box'>
-                    <a href='portfolio_detail.php'>
+                    <a href='nanomedicine_detail.php'>
                       <div class='image-link'>
                         <i class='fa-icon-search'></i>
-                        <img class="img-responsive img-rounded center-block" alt="Dictum vulputate" width="262" height="262" src="assets/images/misc/nanomedicine.jpg" />
+                        <img class="img-responsive img-rounded center-block" alt="Nanomedicine" width="262" height="262" src="assets/images/misc/nanomedicine.jpg" />
                       </div>
                       <h3 class='title'>Nanomedicine</h3>
                       <p class='category'>Biology is the original nanoscience!  Learn how molecular machines are now being used and how they'll impact human health.</p>

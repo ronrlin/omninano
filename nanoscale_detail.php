@@ -157,27 +157,27 @@
                         <div class='carousel-inner'>
                           <div class='item active'>
                             <div class='col-sm-4 portfolio-box'>
-                              <a href='portfolio_detail.php'>
+                              <a href='nanomaterials_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-search'></i>
-                                  <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" width="262" height="171" src="assets/images/misc/surface-properties.jpg" />
+                                  <img class="img-responsive img-rounded center-block" alt="nanomaterials" width="262" height="171" src="assets/images/misc/surface-properties.jpg" />
                                 </div>
                                 <h3 class='title'>Nanomaterials</h3>
                                 <p class='category'>Nanoscience is changing material science.</p>
                               </a>
                             </div>
                             <div class='col-sm-4 portfolio-box'>
-                              <a href='portfolio_detail.php'>
+                              <a href='nanomedicine_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-user-md'></i>
-                                  <img class="img-responsive img-rounded center-block" alt="Malesuada" width="262" height="100" src="assets/images/misc/nanobiosensors-Omni-Nano_01.jpg" />
+                                  <img class="img-responsive img-rounded center-block" alt="nanomedicine" width="262" height="100" src="assets/images/misc/nanobiosensors-Omni-Nano_01.jpg" />
                                 </div>
                                 <h3 class='title'>Nanomedicine</h3>
                                 <p class='category'>Medical applications for nanotechnology.</p>
                               </a>
                             </div>
                             <div class='col-sm-4 portfolio-box'>
-                              <a href='portfolio_detail.php'>
+                              <a href='nanoelectronics_detail.php'>
                                 <div class='image-link'>
                                   <i class='fa-icon-off'></i>
                                   <img class="img-responsive img-rounded center-block" alt="nanoelectronics" width="262" height="171" src="assets/images/misc/neon.jpg" />
