@@ -30,6 +30,7 @@
           <h2 class='title'>OmniNano.org</h2>
           <p><a href="about_us.php">About us</a></p>
           <p><a href="partnerships.php">Partnerships</a></p>
+          <p><a href="board.php">Board of Directors</a></p>
           <p><a href="awards.php">Awards</a></p> 
           <p><a href="press.php">Media Relations</a></p>
           <p><a href="http://blog.omninano.org/" target="_blank">Blog</a></p>                  
