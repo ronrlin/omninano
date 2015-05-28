@@ -52,26 +52,29 @@
             <div class='row'>            
               <div class='col-sm-6 panel-item'>
                 <div class='panel panel-circle-contrast panel-body'>
-                  <h2 class='panel-title'>Your Support Helps Us</h2>
+                  <p class='lead'>We Need Your Support</p>
+                  <p class='lead lead-sm'>Your financial support helps us train educators and support educational programs in nanotechnology.</p>
                   <p>
                     <ul>
-                      <li>Supports our FREE Discover workshops for schools</li>
-                      <li>Supports further development of the Omni Nano Curriculum</li>
-                      <li>Expands our training programs so we can offer Discover workshops nationwide</li>
+                      <li>Continue our initiative for FREE Discover workshops for schools</li>
+                      <li>Support further development of the Omni Nano Curriculum</li>
+                      <li>Helps expand our training programs so we can offer Discover workshops nationwide</li>
                       <li>Support the development of digital resources for science educators</li>
-                      <li>... and MUCH more!</li>
                     </ul>
                   </p>
                 </div>
               </div>
               <div class='col-sm-6 panel-item'>
                 <div class='panel panel-circle-contrast panel-body'>
-                  <h2 class='panel-title'>Your Support is <strong>Tax Deductible</strong></h2>
-                  <p>
-                    All donations are tax-deductible to the extent allowed by law. Omni Nano provides a tax substantiation letter for every donation of $250 or more.                        
+                  <p class='lead'>Your Support is Tax Deductible</p>
+                  <p class='lead lead-sm'>
+                    All donations are tax-deductible to the extent allowed by law. 
                   </p>
-                  <p>
-                    <a href="contact_us.php">Click here</a> to request a tax substantiation letter. 
+                  <p class='lead lead-sm'>
+                    Omni Nano provides a tax substantiation letter for every donation of $250 or more.                        
+                  </p>
+                  <p class='lead lead-sm'>
+                    <a href="contact_us.php">Contact us</a> to request a tax substantiation letter. 
                   </p>
                 </div>
               </div>              
@@ -94,7 +97,7 @@
                       </div>
                       <div class='content'>
                         <h3 class='title'>IRS Letter of Determination</h3>
-                        <p>Curabitur id ante at diam consectetur mattis. Donec tristique est turpis, et dapibus odio accumsan non. Donec rutrum sodales interdum.</p>
+                        <p>Review our <a href="https://s3-us-west-2.amazonaws.com/omninano-assets/letters/omninano--irs_letter_of_determination-501c3.pdf">letter</a> here.</p>
                       </div>
                     </div>
                     <div class='col-sm-6 icon-box'>
@@ -103,7 +106,7 @@
                       </div>
                       <div class='content'>
                         <h3 class='title'>California State Franchise Tax Board</h3>
-                        <p>Letter of exemption.</p>
+                        <p><a target="_blank" href="https://s3-us-west-2.amazonaws.com/omninano-assets/letters/Exempt-letter-California-Franchise-Tax-Board---Omni-Nano.pdf">Letter of exemption</a></p>
                       </div>
                     </div>
                   </div>
@@ -114,7 +117,7 @@
                       </div>
                       <div class='content'>
                         <h3 class='title'>City of Los Angeles Tax Exemption Certificate</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed massa quis elit sagittis tempor. Ut rutrum sem vel augue rhoncus vestibulum.</p>
+                        <p><a target="_blank" href="https://s3-us-west-2.amazonaws.com/omninano-assets/letters/omninano--irs_letter_of_determination-501c3.pdf">Review</a> our tax exemption certificate.</p>
                       </div>
                     </div>
                     <div class='col-sm-6 icon-box'>
@@ -123,7 +126,7 @@
                       </div>
                       <div class='content'>
                         <h3 class='title'>Independent verification</h3>
-                        <p>Read more about Omni Nano at GuideStar, Charity Navigator and the IRS.gov.</p>
+                        <p>Read more about Omni Nano at GuideStar, Charity Navigator and at irs.gov.</p>
                       </div>
                     </div>
                   </div>
