@@ -33,7 +33,8 @@
           <p><a href="board.php">Board of Directors</a></p>
           <p><a href="awards.php">Awards</a></p> 
           <p><a href="press.php">Media Relations</a></p>
-          <p><a href="http://blog.omninano.org/" target="_blank">Blog</a></p>                  
+          <p><a href="contact_us.php">Contact us</a></p>                  
+          <p><a href="http://blog.omninano.org/" target="_blank">Blog</a></p>
         </div>
       </div>
     </div>
