@@ -104,7 +104,8 @@
                   <div class='row'>
                     <div class='col-sm-6'>
                       <div class='text-center-xs'>
-                        <p><strong><a href="contact_us.php">Give by stock or check</a></strong></p>
+                        <p></p>
+                        <p><strong><a href="contact_us.php">Contact us to donate with stock or checks</a></strong></p>
                       </div>
                     </div>
                   </div>
@@ -115,7 +116,7 @@
             <div class="col-sm-12 text-center">
               <div class="lead lead-md">
                 <p>Not ready to donate?
-                Buy Omni Nano gear to <a href="http://www.tvpmarket.com/collections/omni-nano">support</a> our mission.</p>
+                Buy Omni Nano gear to <a target="_blank" href="http://www.tvpmarket.com/collections/omni-nano">support</a> our mission.</p>
               </div>
               <div>
                 <img width="100%" src="assets/images/misc/omninano-online-store.jpg">

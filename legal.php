@@ -44,8 +44,8 @@
                   <i class='fa-icon-briefcase'></i>
                   <h2>
                     we're a 501(c)(3) tax-exempt organization
-                    <small>We support STEM education by teaching the science behind and applications of nanotechnology.</small>
-                  </h2>                  
+                    <small>We support STEM education by teaching the science of and applications for nanotechnology.</small>
+                  </h2>
                 </div>
               </div>
             </div>
@@ -56,10 +56,10 @@
                   <p class='lead lead-sm'>Your financial support helps us train educators and support educational programs in nanotechnology.</p>
                   <p>
                     <ul>
-                      <li>Continue our initiative for FREE Discover workshops for schools</li>
-                      <li>Support further development of the Omni Nano Curriculum</li>
-                      <li>Helps expand our training programs so we can offer Discover workshops nationwide</li>
-                      <li>Support the development of digital resources for science educators</li>
+                      <li>We provide free Discover workshops for schools</li>
+                      <li>We are developing the Omni Nano Curriculum</li>
+                      <li>We are expanding our network of teachers to carry nanotechnology into high school classrooms</li>
+                      <li>We develop and distribute digital resources for science educators</li>
                     </ul>
                   </p>
                 </div>
@@ -69,13 +69,12 @@
                   <p class='lead'>Your Support is Tax Deductible</p>
                   <p class='lead lead-sm'>
                     All donations are tax-deductible to the extent allowed by law. 
-                  </p>
-                  <p class='lead lead-sm'>
                     Omni Nano provides a tax substantiation letter for every donation of $250 or more.                        
                   </p>
                   <p class='lead lead-sm'>
                     <a href="contact_us.php">Contact us</a> to request a tax substantiation letter. 
                   </p>
+                  <h2><a href="donate.php">Support</a> nanotechnology education now!</h2>                  
                 </div>
               </div>              
             </div>
@@ -96,8 +95,8 @@
                         <i class='fa-icon-tag text-white'></i>
                       </div>
                       <div class='content'>
-                        <h3 class='title'>IRS Letter of Determination</h3>
-                        <p>Review our <a href="https://s3-us-west-2.amazonaws.com/omninano-assets/letters/omninano--irs_letter_of_determination-501c3.pdf">letter</a> here.</p>
+                        <h3 class='title'>IRS Letter of Affirmation</h3>
+                        <p>Non-profits with tax-exempt, 501(c)(3) status receive a <a href="https://s3-us-west-2.amazonaws.com/omninano-assets/letters/omninano--irs_letter_of_determination-501c3.pdf">letter of affirmation</a>.</p>
                       </div>
                     </div>
                     <div class='col-sm-6 icon-box'>
@@ -106,7 +105,7 @@
                       </div>
                       <div class='content'>
                         <h3 class='title'>California State Franchise Tax Board</h3>
-                        <p><a target="_blank" href="https://s3-us-west-2.amazonaws.com/omninano-assets/letters/Exempt-letter-California-Franchise-Tax-Board---Omni-Nano.pdf">Letter of exemption</a></p>
+                        <p>Our 501(c)(3) status is recognized by the California State Franchise Tax Board, available here for <a target="_blank" href="https://s3-us-west-2.amazonaws.com/omninano-assets/letters/Exempt-letter-California-Franchise-Tax-Board---Omni-Nano.pdf">download</a>.</p>
                       </div>
                     </div>
                   </div>
@@ -117,7 +116,7 @@
                       </div>
                       <div class='content'>
                         <h3 class='title'>City of Los Angeles Tax Exemption Certificate</h3>
-                        <p><a target="_blank" href="https://s3-us-west-2.amazonaws.com/omninano-assets/letters/omninano--irs_letter_of_determination-501c3.pdf">Review</a> our tax exemption certificate.</p>
+                        <p>Omni Nano operates with tax-exempt benefits in the City of Los Angeles, with our certification available for <a target="_blank" href="https://s3-us-west-2.amazonaws.com/omninano-assets/letters/OMNINANO--LA-City-Tax-Registration.pdf">download</a>.</p>
                       </div>
                     </div>
                     <div class='col-sm-6 icon-box'>

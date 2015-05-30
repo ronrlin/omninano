@@ -216,6 +216,14 @@
                     </ol>
                   </div>
                 </div>
+                      <hr class='hr-half'>
+
+              </div>
+            </div>
+
+            <div class='row'>
+              <div class='col-sm-12'>
+                <img class="img-responsive img-rounded center-block" src="assets/images/misc/Archer-Nanotechnology-Workshop-OmniNano-01.jpg">
               </div>
             </div>
 
@@ -236,7 +244,8 @@
                   </div>
                 </div>
               </div>
-            </div>            
+            </div>
+
           </div>
         </div>
         <div class='fade' id='scroll-to-top'>

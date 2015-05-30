@@ -86,7 +86,7 @@
                 <a href='http://omninano.slides.com/omninano/uniquenanoscale' target="_blank">
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Dictum vulputate" width="360" height="235" src="assets/images/demo/portfolio/3.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="unique at the nanoscale" width="360" height="235" src="assets/images/demo/portfolio/3.jpg" />
                   </div>
                   <h3 class='title'>What's Unique about the Nanoscale?</h3>
                   <p class='category'>Introduction to the Nanoscale</p>
@@ -106,12 +106,13 @@
                 <a href='http://omninano.slides.com/omninano/properties' target="_blank">
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Lorem ipsum" width="360" height="235" src="assets/images/misc/surface-properties.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="properties of nanomaterials" width="360" height="235" src="assets/images/misc/surface-properties.jpg" />
                   </div>
                   <h3 class='title'>Properties of Nanomaterials</h3>
                   <p class='category'>Investigating Nanomaterials</p>
                 </a>
               </div>
+<!--
               <div class='col-sm-4 portfolio-box portfolio-filter-applications portfolio-item'>
                 <a href='portfolio_detail.php'>
                   <div class='image-link'>
@@ -172,6 +173,7 @@
                   <p class='category'>Building Nanomaterials</p>
                 </a>
               </div>
+            -->
 
             </div>
           </div>

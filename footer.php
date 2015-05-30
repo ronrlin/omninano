@@ -15,7 +15,8 @@
           <p><a href="educators.php#Discover">Discover Program</a></p>
           <p><a href="educators.php#Bridges">Bridges Program</a></p>
           <p><a href="educators.php#Curriculum">The Curriculum</a></p>
-          <p><a href="testimonials.php">Testimonials</a></p>                  
+          <p><a href="testimonials.php">Testimonials</a></p>
+          <p><a target="_blank" href="http://blog.omninano.org/projects/workshops">Previous Workshops</a></p>                  
         </div>        
       </div>
       <div class='col-md-3 col-sm-6 info-box'>

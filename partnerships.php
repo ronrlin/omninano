@@ -81,7 +81,7 @@
                   <p class='category'>Educational Partner</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
+              <div class='col-sm-4 portfolio-box partner-filter-bridges portfolio-item'>
                 <a href='portfolio_detail.html'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
@@ -91,7 +91,7 @@
                   <p class='category'>Discover Program</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box partner-filter-educational partner-filter-discover portfolio-item'>
+              <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
                 <a href='portfolio_detail.html'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
@@ -131,7 +131,7 @@
                   <p class='category'>Corporate Sponsor</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box partner-filter-educational partner-filter-discover portfolio-item'>
+              <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
                 <a href='portfolio_detail.html'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>

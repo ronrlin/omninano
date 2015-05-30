@@ -51,7 +51,7 @@
             <div class='text-boxes'>
               <div class='row text-box text-box-title-above'>
                 <div class='col-sm-12'>
-                  <h2 class='title'><a href="">Omni Nano nominated for Los Angeles Business Journal Innovation Award</a></h2>
+                  <h2 class='title'><a target="_blank" href='http://www.cbjonline.com/a2labj/supplements/PSS-Innovation-Awards_20141124.pdf'>Omni Nano nominated for Los Angeles Business Journal Innovation Award</a></h2>
                   <div class='toolbar'>
                     <a class='btn btn-link' href='#'>
                       <i class='fa-icon-calendar-empty'></i>

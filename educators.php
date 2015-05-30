@@ -175,9 +175,13 @@
               </div>
               <hr class='hr-half hr-invisible'>
               <div class='row'>
-<!--                <div class='col-sm-12'>
-                  <div class='well'><center><strong>Bring a Discover workshop to your school!</strong></center></div>
-                </div> -->
+                <div class='col-sm-12'>
+                  <div class='well'>
+                    <center><h2>Already our 55 workshops have impacted more than 1,500 students!</h2>
+                    <p><a target="_blank" href="http://blog.omninano.org/projects/workshops">Click here</a> to see our Discover workshops in action.</p>
+                    </center>
+                  </div>
+                </div>
                 <div class='col-sm-12'>
                   <div class='text-center-xs'>
                     <a class='btn btn-block btn-contrast' href='contact_us.php'>Bring a Discover workshop to your school!</a>
@@ -273,28 +277,6 @@
             <div class='row'>
               <div class='col-sm-12'>
                 <div class='page-header page-header-with-icon'>
-                  <i class='fa-icon-star'></i>
-                  <h2>Why nanotechnology?</h2>
-                </div>
-                <div class='text-boxes'>
-                  <div class='row text-box'>
-                    <div class='col-sm-6'><img class="img-responsive center-block" alt="Lorem ipsum dolor sit amet" width="340" height="188" src="assets/images/misc/Boys-and-Girls-Club-nanotechnology-workshop-OmniNano-02.jpg" /></div>
-                    <div class='col-sm-6'>
-                      <h3 class='title'><a href="nanotechnology.php">Think nano.  Thing BIG!</a></h3>
-                        <p>Nanometer-scale science is unlocking amazing new applications in materials science, biotechnology, semiconductors and more.</p>
-
-                        <p>It is well-known that there are major investments being made to improve STEM education around the world.  In the United States, this is in part driven by a desire to preserve America's global competitiveness.  In fact, it is estimated that nanotechnology will create over 5M jobs in the next decade!</p>
-                      <a class='btn btn-contrast btn-bordered btn-sm' href='nanotechnology.php'>Read more</a>
-                    </div>
-                  </div>
-                  
-                </div>
-              </div>
-            </div>
-
-            <div class='row'>
-              <div class='col-sm-12'>
-                <div class='page-header page-header-with-icon'>
                   <i class='fa-icon-book'></i>
                   <h2>
                     <a name="Curriculum">Omni Nano Curriculum
@@ -342,6 +324,7 @@
                     </div>
                   </div>
 
+
                 </div>
               </div>
               <hr class='hr-half hr-invisible'>
@@ -355,8 +338,29 @@
                   </div>
                 </div>
               </div>              
-            </div>            
+            </div>   
 
+            <div class='row'>
+              <div class='col-sm-12'>
+                <div class='page-header page-header-with-icon'>
+                  <i class='fa-icon-star'></i>
+                  <h2>Why nanotechnology?</h2>
+                </div>
+                <div class='text-boxes'>
+                  <div class='row text-box'>
+                    <div class='col-sm-6'><img class="img-responsive center-block" alt="Lorem ipsum dolor sit amet" width="340" height="188" src="assets/images/misc/Boys-and-Girls-Club-nanotechnology-workshop-OmniNano-02.jpg" /></div>
+                    <div class='col-sm-6'>
+                      <h3 class='title'><a href="nanotechnology.php">Think nano.  Thing BIG!</a></h3>
+                        <p>Nanometer-scale science is unlocking amazing new applications in materials science, biotechnology, semiconductors and more.</p>
+
+                        <p>It is well-known that there are major investments being made to improve STEM education around the world.  In the United States, this is in part driven by a desire to preserve America's global competitiveness.  In fact, it is estimated that nanotechnology will create over 5M jobs in the next decade!</p>
+                      <a class='btn btn-contrast btn-bordered btn-sm' href='nanotechnology.php'>Read more</a>
+                    </div>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
             <div class='row'>
               <div class='col-sm-12'>
                 <div class='page-header page-header-with-icon'>
