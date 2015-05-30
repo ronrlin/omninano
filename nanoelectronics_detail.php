@@ -124,7 +124,7 @@
                   <div class='col-sm-12'>
                     <h2 class='no-mg-t'>Nanoelectronics</h2>
                     <p class='lead'>
-                      The basis of the modern information age is sure electronics and the advent of the microchip.  
+                      The basis of the modern information age is electronics.  But the pinnacle of the electronics age came with the advent of the microchip.  
                     </p>
 
                     <p class='lead lead-sm'>

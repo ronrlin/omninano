@@ -89,7 +89,7 @@
                       <span>Explore nanotechnology applications, innovations and the science that will revolutionize the world of tomorrow!</span>
                     </p>
                     <p class='fadeInUpBig animated'>
-                      <a class='btn btn-squared btn-contrast btn-lg' href='syllabus.php'>
+                      <a class='btn btn-squared btn-contrast btn-lg' href='curriculum.php'>
                         Start learning now
                       </a>
                     </p>
