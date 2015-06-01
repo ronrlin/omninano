@@ -142,11 +142,8 @@
                       Nanomaterials are often developed by employing specific control over the placement or properties of individual atoms or molecules that comprise a material.  This is a revolutionary development.  
                     </p>   
 
-                    <p class='lead lead-sm'>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu justo vitae odio rhoncus pulvinar. Morbi ac congue orci. Nulla tristique ultrices purus vel egestas. Aliquam viverra volutpat facilisis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin commodo sit amet eros non dapibus. Aenean vitae fermentum diam.
-                    </p>
                     <hr class='hr-invisible hr-half'>
-                    <p class='lead'>Aliquam viverra volutpat facilisis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin commodo sit amet eros non dapibus. Aenean vitae fermentum diam.</p>
+                    <p class='lead'>It's hard to say what's next in advanced applications for nanomaterials.  But many people believe that nanomaterials will be lighter, stronger and more durable than conventional materials.</p>
                   </div>
                 </div>
                 <div class='row'>
