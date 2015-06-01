@@ -63,7 +63,7 @@
                 <h2 class='title'>Marco Curreli, Ph.D.</h2>
                 <div class='row'>
                   <div class='col-sm-9'>
-                    <p>Omni Nano was founded by Dr. Marco Curreli, who is also its President and Chief Development Officer (CDO). Dr. Curreli holds a B.S. degree in Chemistry from the California State University of Los Angeles (Cal State LA), as well as a Ph.D. in Chemistry from the University of Southern California (USC), where he focused the entirety of his graduate work on Nanotechnology.</p>
+                    <p> Dr. Marco Curreli is the Executive Director and Founder of Omni Nano. Dr. Curreli holds a B.S. degree in Chemistry from the California State University of Los Angeles (Cal State LA), as well as a Ph.D. in Chemistry from the University of Southern California (USC), where he focused the entirety of his graduate work on nanotechnology.</p>
                   </div>
                 </div>
                 <hr class='hr-half'>
@@ -118,7 +118,7 @@
                 <div class='row'>
                   <div class='col-sm-9'>
                     <p>
-                      Ron Lin, Ph.D. is a technologist, scientist and entrepreneur.  He has over a decade of experience as a software engineer and founder at early-stage companies.  Ron also worked for almost a decade as a researcher and graduate student at UCLA, developing methods for examining individual molecules of DNA and protein while integrating novel experimental techniques with cutting-edge computational methods.  Most recently, Ron was the co-founder and CTO at CARD.com, a financial services startup offering consumers unique and affordable smartphone-centric bank accounts.  In addition to a Ph.D. from UCLA, Ron was also a double major in Computer Science and Economics at the University of Pennsylvania.
+                      Ron Lin is a technologist, scientist and entrepreneur.  He has over a decade of experience as a software engineer and founder at early-stage companies.  Ron also worked for almost a decade as a researcher and graduate student at UCLA, developing methods for examining individual molecules of DNA and protein while integrating novel experimental techniques with cutting-edge computational methods.  Most recently, Ron was the co-founder and CTO at CARD.com, a financial services startup offering consumers unique and affordable smartphone-centric bank accounts.  In addition to a Ph.D. from UCLA, Ron was also a double major in Computer Science and Economics at the University of Pennsylvania.
                     </p>
                   </div>
                 </div>
@@ -132,7 +132,7 @@
                 <div class='row'>
                   <div class='col-sm-9'>
                     <p>
-                      Ms. Rakich received her B.A. in Psychology from the University of Southern California in 2001 and her M.A. in Education and Counseling from California State University Dominguez Hills in 2004. She is anticipated to receive her Ph. D. in Education from a joint program between San Diego State University and Claremont Graduate University in 2013. She is currently the Assistant Vice Principal of Secondary Counseling Services and Special Education at Franklin High School in Highland Park, California where she has been providing leadership, guidance, supervision, and assistance in instructional practices, curriculum development, and school policy. Ms. Rakich is also a lecturer and a research associate at the Institute at Indian Hill, Claremont Graduate University and San Diego State University, where she has been researching teacher effectiveness, program evaluation, and educational psychology.
+                      Sandy Rakich received her B.A. in Psychology from the University of Southern California in 2001 and her M.A. in Education and Counseling from California State University Dominguez Hills in 2004. She is anticipated to receive her Ph. D. in Education from a joint program between San Diego State University and Claremont Graduate University in 2013. She is currently the Assistant Vice Principal of Secondary Counseling Services and Special Education at Franklin High School in Highland Park, California where she has been providing leadership, guidance, supervision, and assistance in instructional practices, curriculum development, and school policy. Ms. Rakich is also a lecturer and a research associate at the Institute at Indian Hill, Claremont Graduate University and San Diego State University, where she has been researching teacher effectiveness, program evaluation, and educational psychology.
                     </p>
                   </div>
                 </div>

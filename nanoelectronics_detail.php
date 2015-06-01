@@ -136,9 +136,9 @@
                     </p>
 
                     <p class='lead lead-sm'>
-                      Nanoelectronics is the application of a "bottom-up" approach to assembling electronic devices, overcoming the "diffraction" limit and allowing electronic components to further miniaturized.  Nanoelectronics may even be applied in remarkable ways to enable a new generation of computing devices, called quantum computers.
+                      Nanoelectronics is the application of a "bottom-up" approach to assembling electronic devices, overcoming the "diffraction wavelength" limit and allowing electronic components to be further miniaturized.  Nanoelectronics may even be applied in remarkable ways to enable a new generation of computing devices, called quantum computers.
                     </p>   
-
+ 
                     <hr class='hr-invisible hr-half'>
                     <p class='lead'>Ultimately, nanoelectronics will largely combine novel nanomaterials and a keen understanding of electricity to create new kinds of electronic devices that can transmit electricity more efficiently than ever before, opening the door to new and exciting applications..</p>
                   </div>
