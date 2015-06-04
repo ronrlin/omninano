@@ -168,6 +168,187 @@
               </div>
             </div>
 
+
+            <div class='row'>
+              <h2>
+                Advisory Board
+              </h2>  
+              <p class="lead lead-md">
+                We have a world-class Advisory Board to also provide us support. 
+              </p>
+              <hr class='hr-half'>
+            </div>
+           
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Steven Yamin</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Gina Valley</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Sue Robins</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Jian Ming Chen</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>James Murray</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Barry Stein</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Jared Ashcroft</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Lisa del Muro</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Daniela Duran</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Stacey McEnnan</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Matt Kamin</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Neil McTiernan</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Justin Bookey</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Mike Navarre</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Christopher Kai</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
       </div>
