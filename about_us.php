@@ -175,7 +175,7 @@
                         <div class='col-sm-8'>
                           <h3 class='name'>Dr. Marco Curreli</h3>
                           <h4 class='position'>Executive Director and Founder</h4>
-                          <p>Dr. Curelli is the Executive Director and Founder of Omni Nano. Dr. Curelli founded Omni Nano in 2012 after completing his doctoral research at the University of Southern California, where he specialized in surface modifications of nanomaterials. After completing his studies, Marco dedicated himself to developing a nanotechnology curriculum to inspire the next generation of scientists. </p>
+                          <p>Dr. Curreli is the Executive Director and Founder of Omni Nano. Dr. Curreli founded Omni Nano in 2012 after completing his doctoral research at the University of Southern California, where he specialized in surface modifications of nanomaterials. After completing his studies, Marco dedicated himself to developing a nanotechnology curriculum to inspire the next generation of scientists. </p>
                           <div class='links'>
                             <a class='btn btn-medium-light btn-sm btn-circle' href='https://www.linkedin.com/pub/marco-curreli/11/2a9/814'>
                               <i class='fa-icon-linkedin'></i>
@@ -225,8 +225,8 @@
                       <li>
                         <div class='image'><img alt="2013" width="120" height="120" src="assets/images/misc/marco.jpg" /></div>
                         <p class='time'>December 2012</p>
-                        <h3 class='title'>Dr. Marco Curelli creates Omni Nano.</h3>
-                        <p>After completing several years of nanotechnology research as a student and researcher at USC, Dr. Curelli decides education is his passion and sets off on creating a nanotechnology curriculum for inspiring young scientists.</p>
+                        <h3 class='title'>Dr. Marco Curreli creates Omni Nano.</h3>
+                        <p>After completing several years of nanotechnology research as a student and researcher at USC, Dr. Curreli decides education is his passion and sets off on creating a nanotechnology curriculum for inspiring young scientists.</p>
                       </li>
                       <li>
                         <div class='image'><img alt="2012" width="120" height="120" src="assets/images/misc/Boys-and-Girls-Club-nanotechnology-workshop-OmniNano-02.jpg" /></div>
@@ -238,19 +238,19 @@
                         <div class='image'><img alt="2011" width="120" height="120" src="assets/images/misc/Archer-Nanotechnology-Workshop-OmniNano-01.jpg" /></div>
                         <p class='time'>January 2014</p>
                         <h3 class='title'>First nanotechnology course</h3>
-                        <p>The first nanotechnology course developed by Omni Nano begins at XX School in Los Angeles.</p>
+                        <p>The first nanotechnology course developed by Omni Nano begins at the 32nd Street/USC Magnet School in Los Angeles.</p>
                       </li>
                       <li>
                         <div class='image'><img alt="2012" width="120" height="120" src="assets/images/misc/alhambra-logo.jpg" /></div>
                         <p class='time'>August 2014</p>
                         <h3 class='title'>14th Workshop</h3>
-                        <p>Omni Nano reaches its first year milestones, with 14 workshops and over 450 students inspired!</p>
+                        <p>In its first year, Omni Nano completes 14 workshops and inspires over 450 students!</p>
                       </li>
                       <li>
                         <div class='image'><img alt="2011" width="120" height="120" src="assets/images/misc/patrick+marco.jpg" /></div>
                         <p class='time'>November 2014</p>
                         <h3 class='title'>Award-winning!</h3>
-                        <p>Omni Nano earns a nomination from the Los Angeles Business Journal as most innovative new non-profit.</p>
+                        <p>Omni Nano earns a nomination from the Los Angeles Business Journal as LA's most innovative new non-profit.</p>
                       </li>
                     </ol>
                   </div>

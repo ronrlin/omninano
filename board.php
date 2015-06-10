@@ -174,9 +174,27 @@
                 Advisory Board
               </h2>  
               <p class="lead lead-md">
-                We have a world-class Advisory Board to also provide us support. 
+                We have a world-class Advisory Board to that provides us educational and scientific expertise. 
               </p>
               <hr class='hr-half'>
+            </div>
+
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-6'>
+                <ul>
+                  <li>Steven Yamin</li>
+                  <li>Steven Yamin</li>
+                  <li>Steven Yamin</li>
+                </ul>
+              </div>
+              <div class='col-sm-6'>
+                <ul>
+                  <li>Steven Yamin</li>
+                  <li>Steven Yamin</li>
+                  <li>Steven Yamin</li>
+                </ul>
+              </div>
+              
             </div>
            
             <div class='row text-box text-box-title-above'>
