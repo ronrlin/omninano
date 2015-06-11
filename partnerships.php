@@ -155,9 +155,9 @@
                 <a href='portfolio_detail.html'>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="LAUSD/USC Magnet School" src="assets/images/misc/lausd-scale.jpg" />
+                    <img class="img-responsive img-rounded center-block" alt="LAUSD/USC Cinematic Arts and Engineering Magnet School" src="assets/images/misc/lausd-scale.jpg" />
                   </div>
-                  <h3 class='title'>LAUSD/USC Cinematic Arts and Engineering</h3>
+                  <h3 class='title'>LAUSD/USC Magnet School</h3>
                   <p class='category'>Bridges Partner</p>
                 </a>
               </div>
