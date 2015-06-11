@@ -182,27 +182,26 @@
             <div class='row'>
               <div class='col-sm-4'>
                 <ul>
-                  <li class="lead">Steven Yamin</li>
-                  <li class="lead">Gina Valley</li>
-                  <li class="lead">Sue Robins</li>
-                  <li class="lead">James Murray</li>
-                  <li class="lead">Matt Kamin</li>
-                  <li class="lead">Neil McTiernan</li>
-                  <li class="lead">Justin Bookey</li>
-                  <li class="lead">Mike Navarre</li>
-                  <li class="lead">Christopher Kai</li>
+                  <li class="lead">Steven Yamin <a href="https://www.linkedin.com/pub/steven-yamin/7/a99/235 "><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Gina Valley <a href=""><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Sue Robins <a href=""><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">James Murray <a href="https://www.linkedin.com/pub/james-murray-jr/5/111/a3"><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Matt Kamin <a href="https://www.linkedin.com/pub/matt-kamin/60/290/a35 "><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Neil McTiernan <a href=""><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Justin Bookey <a href="https://www.linkedin.com/in/thebookey"><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Mike Navarre <a href="https://www.linkedin.com/in/mikenavarre"><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Christopher Kai <a href="https://www.linkedin.com/in/christopherkai"><i class="fa-icon-linkedin text-contrast"></i></a></li>
                 </ul>
               </div>
               <div class='col-sm-4'>
                 <ul>
-                  <li class="lead">Jian Ming Chen</li>
-                  <li class="lead">James Murray</li>
-                  <li class="lead">Steven Yamin</li>
-                  <li class="lead">Barry Stein</li>
-                  <li class="lead">Jared Ashcroft</li>
-                  <li class="lead">Lisa del Muro</li>
-                  <li class="lead">Daniela Duran</li>
-                  <li class="lead">Stacey McEnnan</li>
+                  <li class="lead">Jia Ming Chen <a href="https://www.linkedin.com/in/jmchen"><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">James Murray <a href=""><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Barry Stein <a href=""><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Jared Ashcroft <a href=""><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Lisa del Muro <a href="https://www.linkedin.com/pub/lisa-del-muro/30/618/647"><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Daniela Duran <a href="https://www.linkedin.com/pub/daniella-duran/71/84/400"><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Stacey McEnnan <a href="https://www.linkedin.com/pub/stacey-mcennan/65/2b/988"><i class="fa-icon-linkedin text-contrast"></i></a></li>
                 </ul>
               </div>
             </div>

@@ -88,7 +88,7 @@
                     <img class="img-responsive img-rounded center-block" alt="Bresee Community Center" src="assets/images/misc/bresee-logo.jpg" />
                   </div>
                   <h3 class='title'>Bresee After-School</h3>
-                  <p class='category'>Discover Program</p>
+                  <p class='category'>Bridges Program</p>
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
@@ -141,6 +141,26 @@
                   <p class='category'>Discover Program</p>
                 </a>
               </div>
+              <div class='col-sm-4 portfolio-box partner-filter-bridges portfolio-item'>
+                <a href='portfolio_detail.html'>
+                  <div class='image-link'>
+                    <i class='fa-icon-search'></i>
+                    <img class="img-responsive img-rounded center-block" alt="Malesuada" src="assets/images/misc/new-west-direction-scale.png" />
+                  </div>
+                  <h3 class='title'>New West Direction Charter</h3>
+                  <p class='category'>Bridges Partner</p>
+                </a>
+              </div>
+              <div class='col-sm-4 portfolio-box partner-filter-bridges portfolio-item'>
+                <a href='portfolio_detail.html'>
+                  <div class='image-link'>
+                    <i class='fa-icon-search'></i>
+                    <img class="img-responsive img-rounded center-block" alt="LAUSD/USC Magnet School" src="assets/images/misc/lausd-scale.jpg" />
+                  </div>
+                  <h3 class='title'>LAUSD/USC Cinematic Arts and Engineering</h3>
+                  <p class='category'>Bridges Partner</p>
+                </a>
+              </div>
               <div class='col-sm-4 portfolio-box partner-filter-sponsor portfolio-item'>
                 <a href='portfolio_detail.html'>
                   <div class='image-link'>
@@ -180,7 +200,7 @@
                   <h3 class='title'>Bellarmine-Jefferson High School</h3>
                   <p class='category'>Discover Program</p>
                 </a>
-              </div>              
+              </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover partner-filter-educational portfolio-item'>
                 <a href='portfolio_detail.html'>
                   <div class='image-link'>
@@ -188,6 +208,16 @@
                     <img class="img-responsive img-rounded center-block" alt="STEAM Carnival" src="assets/images/misc/steam-logo-scale.png" />
                   </div>
                   <h3 class='title'>STEAM Carnival</h3>
+                  <p class='category'>Educational Partner</p>
+                </a>
+              </div>
+              <div class='col-sm-4 portfolio-box partner-filter-educational portfolio-item'>
+                <a href='portfolio_detail.html'>
+                  <div class='image-link'>
+                    <i class='fa-icon-search'></i>
+                    <img class="img-responsive img-rounded center-block" alt="MESA" src="assets/images/misc/mesa-scale.jpg" />
+                  </div>
+                  <h3 class='title'>MESA</h3>
                   <p class='category'>Educational Partner</p>
                 </a>
               </div>
@@ -209,6 +239,16 @@
                   </div>
                   <h3 class='title'>Culver City Middle School</h3>
                   <p class='category'>Discover Program</p>
+                </a>
+              </div>
+              <div class='col-sm-4 portfolio-box partner-filter-educational portfolio-item'>
+                <a href='portfolio_detail.html'>
+                  <div class='image-link'>
+                    <i class='fa-icon-search'></i>
+                    <img class="img-responsive img-rounded center-block" alt="Boys and Girls Club of Los Angeles" src="assets/images/misc/bg-club-scale.jpg" />
+                  </div>
+                  <h3 class='title'>Boys and Girls Club of Los Angeles</h3>
+                  <p class='category'>Educational Partner</p>
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
