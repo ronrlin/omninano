@@ -209,6 +209,7 @@
                   <li class="lead">Steven Yamin <a href="https://www.linkedin.com/pub/steven-yamin/7/a99/235 "><i class="fa-icon-linkedin text-contrast"></i></a></li>
                   <li class="lead">Matt Kamin <a href="https://www.linkedin.com/pub/matt-kamin/60/290/a35 "><i class="fa-icon-linkedin text-contrast"></i></a></li>
                   <li class="lead">Neil McTiernan <a href=""><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Anne Laureano <a href="https://www.linkedin.com/in/alaureano"><i class="fa-icon-linkedin text-contrast"></i></a><p class="sm">Principal, Company</p></p></li>
                 </ul>
               </div>
               <div class='col-sm-4'>
@@ -216,10 +217,10 @@
                   <li class="lead">Justin Bookey <a href="https://www.linkedin.com/in/thebookey"><i class="fa-icon-linkedin text-contrast"></i></a></li>
                   <li class="lead">Mike Navarre <a href="https://www.linkedin.com/in/mikenavarre"><i class="fa-icon-linkedin text-contrast"></i></a></li>
                   <li class="lead">Christopher Kai <a href="https://www.linkedin.com/in/christopherkai"><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Eva Serna <a href="https://www.linkedin.com/pub/eva-serna/13/ab6/279"><i class="fa-icon-linkedin text-contrast"></i></a></li>
                 </ul>
               </div>
             </div>
-
 
           </div>
         </div>

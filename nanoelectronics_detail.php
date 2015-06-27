@@ -128,7 +128,7 @@
                     </p>
 
                     <p class='lead lead-sm'>
-                      Whether it's through copper wires or gold-etched circuits etched into silicon, electricity courses through most everything around us.
+                      Whether it's through copper wires or gold-etched circuits etched into silicon, electricity coarses through most everything around us.
                     </p>
 
                     <p class='lead lead-sm'>
