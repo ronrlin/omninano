@@ -1,8 +1,7 @@
 <?php
 
 // variables to be modified
-
-$to = "ronrlin@gmail.com";                     // email to which messages from contact form will be delivered
+$to = "marcocurreli@omninano.org, gina@omninano.org, ronrlin@gmail.com";                     // email to which messages from contact form will be delivered
 $subject = "Message from contact form (omninano.org)";     // email subject
 
 // form variables
