@@ -60,7 +60,7 @@
                 <div class='row'>
                   <div class='col-sm-12'>
                     <p class='lead lead-md text-center'>
-                      Omni Nano develops high-quality, innovative, and interactive educational materials for teaching nanotechnology curricula to high school students.  By providing a universally available and top-quality nanotechnology curriculum, we can do our best to inspire the next generation of scientists, entrepreneurs and engineers of tomorrow.
+                      Omni Nano develops high-quality, innovative, and interactive educational materials for teaching nanotechnology curricula to high school students.  By providing a universally available and top-quality nanotechnology curriculum, we can do our best to inspire the scientists, entrepreneurs and engineers of tomorrow.
                     </p>
                   </div>
                 </div>
