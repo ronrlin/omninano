@@ -214,13 +214,13 @@
                 </p>
                 <div class='links'>
                   Follow us on 
-                  <a class='btn btn-circle btn-medium-light btn-sm' href='#'>
+                  <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.twitter.com/omninano'>
                     <i class='fa-icon-twitter text-dark'></i>
                   </a>
-                  <a class='btn btn-circle btn-medium-light btn-sm' href='#'>
+                  <a class='btn btn-circle btn-medium-light btn-sm' href='https://plus.google.com/+OmniNano'>
                     <i class='fa-icon-google-plus text-dark'></i>
                   </a>
-                  <a class='btn btn-circle btn-medium-light btn-sm' href='#'>
+                  <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.facebook.com/omninano.org'>
                     <i class='fa-icon-facebook text-dark'></i>
                   </a>
                 </div>
