@@ -345,7 +345,7 @@
                   <a class='btn btn-circle btn-medium-light btn-sm' href='https://plus.google.com/+OmniNano'>
                     <i class='fa-icon-google-plus text-dark'></i>
                   </a>
-                  <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.facebook.com/omninano'>
+                  <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.facebook.com/omninano.org'>
                     <i class='fa-icon-facebook text-dark'></i>
                   </a>
                 </div>
