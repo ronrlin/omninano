@@ -209,7 +209,8 @@
                   <li class="lead">Steven Yamin <a href="https://www.linkedin.com/pub/steven-yamin/7/a99/235 "><i class="fa-icon-linkedin text-contrast"></i></a></li>
                   <li class="lead">Matt Kamin <a href="https://www.linkedin.com/pub/matt-kamin/60/290/a35 "><i class="fa-icon-linkedin text-contrast"></i></a></li>
                   <li class="lead">Neil McTiernan <a href=""><i class="fa-icon-linkedin text-contrast"></i></a></li>
-                  <li class="lead">Anne Laureano <a href="https://www.linkedin.com/in/alaureano"><i class="fa-icon-linkedin text-contrast"></i></a><p class="sm">Principal, Company</p></p></li>
+                  <li class="lead">Anne Laureano <a href="https://www.linkedin.com/in/alaureano"><i class="fa-icon-linkedin text-contrast"></i></a><p class="sm"></p></p></li>
+                  <li class="lead">Ned Curic <a href="https://www.linkedin.com/pub/ned-curic/1/878/a8b"><i class="fa-icon-linkedin text-contrast"></i></a></p></li> 
                 </ul>
               </div>
               <div class='col-sm-4'>
