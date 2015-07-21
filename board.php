@@ -219,6 +219,7 @@
                   <li class="lead">Mike Navarre <a href="https://www.linkedin.com/in/mikenavarre"><i class="fa-icon-linkedin text-contrast"></i></a></li>
                   <li class="lead">Christopher Kai <a href="https://www.linkedin.com/in/christopherkai"><i class="fa-icon-linkedin text-contrast"></i></a></li>
                   <li class="lead">Eva Serna <a href="https://www.linkedin.com/pub/eva-serna/13/ab6/279"><i class="fa-icon-linkedin text-contrast"></i></a></li>
+                  <li class="lead">Tushar Gadhia <a href="https://www.linkedin.com/in/tgadhia"><i class="fa-icon-linkedin text-contrast"></i></a></p></li> 
                 </ul>
               </div>
             </div>
