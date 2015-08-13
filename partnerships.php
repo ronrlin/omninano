@@ -62,7 +62,7 @@
             </div>
             <div class='row portfolio-boxes' id='portfolio-container'>
               <div class='col-sm-4 portfolio-box partner-filter-educational portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Etiam vestibulum" height="348" src="assets/images/misc/ucla-logo-scale.jpg" />
@@ -72,7 +72,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-educational portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Malesuada" src="assets/images/misc/usc-logo.png" />
@@ -82,7 +82,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-bridges portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Bresee Community Center" src="assets/images/misc/bresee-logo.jpg" />
@@ -92,7 +92,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Santa Monica High School" height="348" src="assets/images/misc/samo-logo-scale.jpg" />
@@ -102,7 +102,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Milken Community High School" width="360" height="235" src="assets/images/misc/milken-logo.jpg" />
@@ -112,7 +112,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Santa Monica High School" height="348" src="assets/images/misc/alhambra-logo-scale.jpg" />
@@ -122,7 +122,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-bridges portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Malesuada" src="assets/images/misc/new-west-direction-scale.png" />
@@ -132,7 +132,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-bridges portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="LAUSD/USC Cinematic Arts and Engineering Magnet School" src="assets/images/misc/lausd-scale.jpg" />
@@ -142,7 +142,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-sponsor partner-filter-discover portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Southern California Edison" src="assets/images/misc/sce-logo-scale.png" />
@@ -174,7 +174,7 @@
               </div>
 
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Helen Bernstein High School Hollywood" src="assets/images/misc/bernsteinhs-logo-scale.jpg" />
@@ -184,7 +184,7 @@
                 </a>
               </div>              
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Bellarmine-Jefferson High School Burbank" src="assets/images/misc/jeffersonhs-logo-scale.jpg" />
@@ -194,7 +194,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover partner-filter-educational portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="STEAM Carnival" src="assets/images/misc/steam-logo-scale.png" />
@@ -204,7 +204,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-educational portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="MESA" src="assets/images/misc/mesa-scale.jpg" />
@@ -214,7 +214,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Franklin High School" src="assets/images/misc/franklinhs-logo-scale.png" />
@@ -224,7 +224,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Culver City Middle School" src="assets/images/misc/culver-logo-scale.jpg" />
@@ -234,7 +234,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-educational portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Boys and Girls Club of Los Angeles" src="assets/images/misc/bg-club-scale.jpg" />
@@ -244,7 +244,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Taft High School" src="assets/images/misc/tafths-logo-scale.png" />
@@ -254,7 +254,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-sponsor portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="UltraTech International Nanotechnology Corporate Partner" src="assets/images/misc/ultratech-logo-scale.png" />
@@ -264,7 +264,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-sponsor portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Pixelligent Corporate Partner" src="assets/images/misc/pixelligent-logo-scale.jpg" />
@@ -274,7 +274,7 @@
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
-                <a href='portfolio_detail.html'>
+                <a href=''>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Palisades Charter High" src="assets/images/misc/pali-high-logo-scale.jpg" />
