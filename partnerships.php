@@ -101,16 +101,6 @@
                   <p class='category'>Discover Program</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box partner-filter-sponsor portfolio-item'>
-                <a href='portfolio_detail.html'>
-                  <div class='image-link'>
-                    <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Nanophase Technologies" src="assets/images/misc/nanophase-logo-scale.png" />
-                  </div>
-                  <h3 class='title'>Nanophase Technologies</h3>
-                  <p class='category'>Corporate Sponsor</p>
-                </a>
-              </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
                 <a href='portfolio_detail.html'>
                   <div class='image-link'>
@@ -119,16 +109,6 @@
                   </div>
                   <h3 class='title'>Milken Community High School</h3>
                   <p class='category'>Discover Program</p>
-                </a>
-              </div>
-              <div class='col-sm-4 portfolio-box partner-filter-sponsor portfolio-item'>
-                <a href='portfolio_detail.html'>
-                  <div class='image-link'>
-                    <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="BessTech Nanotechnology Corporate Partner" width="360" height="235" src="assets/images/misc/besstech-logo.png" />
-                  </div>
-                  <h3 class='title'>BessTech</h3>
-                  <p class='category'>Corporate Sponsor</p>
                 </a>
               </div>
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
@@ -161,16 +141,6 @@
                   <p class='category'>Bridges Partner</p>
                 </a>
               </div>
-              <div class='col-sm-4 portfolio-box partner-filter-sponsor portfolio-item'>
-                <a href='portfolio_detail.html'>
-                  <div class='image-link'>
-                    <i class='fa-icon-search'></i>
-                    <img class="img-responsive img-rounded center-block" alt="Nantero Corporation Nanotechnology Corporate Partner" src="assets/images/misc/nantero-logo-scale.png" />
-                  </div>
-                  <h3 class='title'>Nantero Corp</h3>
-                  <p class='category'>Corporate Sponsor</p>
-                </a>
-              </div>
               <div class='col-sm-4 portfolio-box partner-filter-sponsor partner-filter-discover portfolio-item'>
                 <a href='portfolio_detail.html'>
                   <div class='image-link'>
@@ -181,6 +151,28 @@
                   <p class='category'>Corporate Sponsor</p>
                 </a>
               </div>
+
+              <div class='col-sm-4 portfolio-box partner-filter-sponsor portfolio-item'>
+                <a href=''>
+                  <div class='image-link'>
+                    <i class='fa-icon-search'></i>
+                    <img class="img-responsive img-rounded center-block" alt="Time Warner Cable" src="assets/images/misc/logos/logo-timewarner.png" />
+                  </div>
+                  <h3 class='title'>Time Warner Cable</h3>
+                  <p class='category'>Corporate Sponsor</p>
+                </a>
+              </div>
+              <div class='col-sm-4 portfolio-box partner-filter-sponsor portfolio-item'>
+                <a href=''>
+                  <div class='image-link'>
+                    <i class='fa-icon-search'></i>
+                    <img class="img-responsive img-rounded center-block" alt="Northrup Grumman" src="assets/images/misc/logos/logo-northrupgrumman.jpg" />
+                  </div>
+                  <h3 class='title'>Northrup Grumman</h3>
+                  <p class='category'>Corporate Sponsor</p>
+                </a>
+              </div>
+
               <div class='col-sm-4 portfolio-box partner-filter-discover portfolio-item'>
                 <a href='portfolio_detail.html'>
                   <div class='image-link'>
