@@ -117,8 +117,8 @@
                     </div>
                     <h3>Address</h3>
                     <p class='text-center'>
-                      11835 West Olympic Boulevard
-                      <br />Suite 1155-E
+                      2999 Overland Ave.
+                      <br />Suite #103
                       <br />Los Angeles, CA 90064
                     </p>
                   </div>
