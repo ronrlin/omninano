@@ -42,3 +42,5 @@ cd omninano
 # Restart nginx and php-fpm
 sudo service nginx restart
 sudo service php-fpm restart
+
+

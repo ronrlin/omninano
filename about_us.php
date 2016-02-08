@@ -176,6 +176,38 @@
                           <h3 class='name'>Dr. Marco Curreli</h3>
                           <h4 class='position'>Executive Director and Founder</h4>
                           <p>Dr. Curreli is the Executive Director and Founder of Omni Nano. Dr. Curreli founded Omni Nano in 2012 after completing his doctoral research at the University of Southern California, where he specialized in surface modifications of nanomaterials. After completing his studies, Marco dedicated himself to developing a nanotechnology curriculum to inspire the next generation of scientists. </p>
+<p>Dr. Marco Curreli is a scientist, educator, and social entrepreneur. In 2012, Dr. Curreli consolidated his 
+passions for nanoscience and teaching to become the Founder and Executive Director of Omni Nano, an 
+organization that educates students about the cutting-edge science of nanotechnology. He works around the 
+clock to pioneer nanotechnology education by developing curricula, presenting workshops, and running the 
+organization on a day-to-day basis.<p>
+
+<p>
+Dr. Curreli’s innovative work in STEM education has been recognized and endorsed by both the education and 
+industry communities. In 2014, Omni Nano was one of only 15 finalists for the prestigious “Oscars of 
+Innovation,” the Patrick Soon-Shiong Innovation Awards. In 2015, Dr. Curreli was nominated for the Nonprofit 
+Leadership Excellence Award at the Los Angeles Business Journal’s Nonprofit and Corporate Citizenship 
+Awards, as well as for the World of Children Education Award.</p>
+
+<p>Dr. Curreli is the West Coast Ambassador for the NanoBusiness Commercialization Association (NanoBCA), 
+acting as a liaison between the academic and corporate worlds and contributing to a community that promotes
+industry involvement in developing educational resources for nanotechnology. He is also a member of the 
+International Journal of Nanotechnology in Medicine and Engineering (IJNME) Editorial Board.</p>
+
+<p>Dr. Curreli earned his B.S. in Chemistry the California State University at Los Angeles (Cal State LA) in 2003. 
+He holds a Ph.D. in Chemistry the University of Southern California (USC) in 2010, where he focused the 
+entirety of his graduate work on nanotechnology, specifically the chemistry of nanomaterials with applications for 
+nanotechnology-enabled sensor devices. Dr. Curreli demonstrated his passion for science education 
+throughout his studies, taking on the role of teaching assistant for many various chemistry courses including 
+general, organic, physical, and analytical. Dr. Curreli additionally designed college-level online chemistry 
+courses as part of the Saylor Foundation’s Free Education Initiative. </p>
+
+<p>Dr. Curreli has extensive industry experience as a lead research scientist in sensor technology development. At 
+Intelligent Optical Systems, he helped develop low-cost bio-analytical assays and spearheaded the chemical 
+and gas sensor project funded by the Department of Homeland Security. In 2011, he led the development of 
+rapid and low-cost bioanalytical detection toolkits for Pharmaco-Kinesis Corporation with funding from the 
+National Institutes of Health’s National Cancer Institute.</p>
+
                           <div class='links'>
                             <a class='btn btn-medium-light btn-sm btn-circle' href='https://www.linkedin.com/pub/marco-curreli/11/2a9/814'>
                               <i class='fa-icon-linkedin'></i>
@@ -279,7 +311,7 @@
                   <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.twitter.com/omninano'>
                     <i class='fa-icon-twitter text-dark'></i>
                   </a>
-                  <a class='btn btn-circle btn-medium-light btn-sm' href='https://plus.google.com/+OmniNano'>
+                  <a class='btn btn-circle btn-medium-light btn-sm' href='https://plus.google.com/u/0/b/101003799219726863352/+OmninanoOrgSTEM/posts'>
                     <i class='fa-icon-google-plus text-dark'></i>
                   </a>
                   <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.facebook.com/omninano.org'>

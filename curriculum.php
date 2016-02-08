@@ -198,7 +198,7 @@
                   <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.twitter.com/omninano'>
                     <i class='fa-icon-twitter text-dark'></i>
                   </a>
-                  <a class='btn btn-circle btn-medium-light btn-sm' href='https://plus.google.com/+OmniNano'>
+                  <a class='btn btn-circle btn-medium-light btn-sm' href='https://plus.google.com/u/0/b/101003799219726863352/+OmninanoOrgSTEM/posts'>
                     <i class='fa-icon-google-plus text-dark'></i>
                   </a>
                   <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.facebook.com/omninano.org'>

@@ -153,7 +153,7 @@
               </div>
 
               <div class='col-sm-4 portfolio-box partner-filter-sponsor portfolio-item'>
-                <a href=''>
+                <a target="_blank" href='https://www.connectamillionminds.com/ '>
                   <div class='image-link'>
                     <i class='fa-icon-search'></i>
                     <img class="img-responsive img-rounded center-block" alt="Time Warner Cable" src="assets/images/misc/logos/logo-timewarner.png" />
@@ -203,6 +203,16 @@
                   <p class='category'>Educational Partner</p>
                 </a>
               </div>
+              <div class='col-sm-4 portfolio-box partner-filter-sponsor portfolio-item'>
+                <a href=''>
+                  <div class='image-link'>
+                    <i class='fa-icon-search'></i>
+                    <img class="img-responsive img-rounded center-block" alt="MESA" src="assets/images/misc/sempra-socalgas.jpg" />
+                  </div>
+                  <h3 class='title'>Sempra Socal Gas</h3>
+                  <p class='category'>Corporate Sponsor</p>
+                </a>
+              </div>              
               <div class='col-sm-4 portfolio-box partner-filter-educational portfolio-item'>
                 <a href=''>
                   <div class='image-link'>
@@ -306,7 +316,7 @@
                   <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.twitter.com/omninano'>
                     <i class='fa-icon-twitter text-dark'></i>
                   </a>
-                  <a class='btn btn-circle btn-medium-light btn-sm' href='https://plus.google.com/+OmniNano'>
+                  <a class='btn btn-circle btn-medium-light btn-sm' href='https://plus.google.com/u/0/b/101003799219726863352/+OmninanoOrgSTEM/posts'>
                     <i class='fa-icon-google-plus text-dark'></i>
                   </a>
                   <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.facebook.com/omninano.org'>

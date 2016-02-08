@@ -171,7 +171,7 @@
               <div class='page-header page-header-with-icon'>
                 <i class='fa-icon-leaf'></i>
                 <h2>
-                  Education Advisory Board
+                  <a name="advisory">Education Advisory Board</a>
                 </h2>  
                 <p class="lead lead-md">
                   We are proud of our world-class Advisory Board, providing us educational and scientific expertise to help us launch and distribute our educational resources to support nanotechnology education. 
@@ -201,7 +201,7 @@
                   Community Advisory Board
                 </h2>  
                 <p class="lead lead-md">
-                  We are proud of our world-class Advisory Board, providing us educational and scientific expertise to help us launch and distribute our educational resources to support nanotechnology education. 
+                  Our Community Advisory Board includes key professionals who help spread Omni Nano’s mission throughout the community by way of outreach, marketing, and STEM career promotion.
                 </p>
               </div>
               <div class='col-sm-4'>
@@ -243,7 +243,7 @@
                   <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.twitter.com/omninano'>
                     <i class='fa-icon-twitter text-dark'></i>
                   </a>
-                  <a class='btn btn-circle btn-medium-light btn-sm' href='https://plus.google.com/+OmniNano'>
+                  <a class='btn btn-circle btn-medium-light btn-sm' href='https://plus.google.com/u/0/b/101003799219726863352/+OmninanoOrgSTEM/posts'>
                     <i class='fa-icon-google-plus text-dark'></i>
                   </a>
                   <a class='btn btn-circle btn-medium-light btn-sm' href='http://www.facebook.com/omninano.org'>
