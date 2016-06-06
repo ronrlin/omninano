@@ -164,6 +164,7 @@
                     </p>
                   </div>
                 </div>
+                <hr class='hr-half'>
               </div>
             </div>
 
