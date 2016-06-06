@@ -167,6 +167,22 @@
               </div>
             </div>
 
+            <div class='row text-box text-box-title-above'>
+              <div class='col-sm-12'>
+                <h2 class='title'>Susan Rubin</h2>
+                <div class='row'>
+                  <div class='col-sm-9'>
+                    <p>
+                      Susan Rubin is the Chief Operating Officer and General Counsel for the Los Angeles Biomedical Research Institute (LA BioMed) located at the Harbor-UCLA Medical Center campus and affiliated with the David Geffen School of Medicine at UCLA. For the past six decades, LA BioMed has been a leading translational research institute, creating novel approaches to disease prevention and treatment, and moving biotech discoveries from academia to sustainable new spin-outs. Susan has a history of growing and managing dynamic translational research centers including the California NanoSystems Institute (UCLA 2004-2011) and The Saban Research Institute (CHLA 2011-2014).                      
+                    </p>
+                    <p>
+                      California Gov. Edmund G. Brown, Jr. appointed Susan to the California Earthquake Authority Advisory Panel, and previously to the California Board of Vocational Nursing and Psychiatric Technicians (2013-2016). Susan also serves on the Board of Directors of Omni Nano, a nanotechnology education program for high school students.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
             <div class='row'>
               <div class='page-header page-header-with-icon'>
                 <i class='fa-icon-leaf'></i>
