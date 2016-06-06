@@ -63,7 +63,12 @@
                 <h2 class='title'>Marco Curreli, Ph.D.</h2>
                 <div class='row'>
                   <div class='col-sm-9'>
-                    <p> Dr. Marco Curreli is the Executive Director and Founder of Omni Nano. Dr. Curreli holds a B.S. degree in Chemistry from the California State University of Los Angeles (Cal State LA), as well as a Ph.D. in Chemistry from the University of Southern California (USC), where he focused the entirety of his graduate work on nanotechnology.</p>
+                    <p>
+                      Dr. Marco Curreli is a research scientist, educator, and social entrepreneur in the field of nanotechnology.  In 2012, Dr. Curreli consolidated his passions for nanoscience and teaching to become the Founder and Executive Director of Omni Nano, an organization that educates students about the cutting-edge science of nanotechnology. 
+                    </p>
+                    <p>
+                      His innovative work in STEM education has been recognized and endorsed by the community.  In 2014 and 2015, Omni Nano was a finalist for the Patrick Soon-Shiong Innovation Award – dubbed the “Oscars of Innovation” – and in 2015 and 2016, Dr. Curreli was nominated for the Nonprofit Leadership Excellence Award by the Los Angeles Business Journal.  Dr. Curreli earned his B.S. in Chemistry at the California State University at Los Angeles and holds a Ph.D. in Chemistry from the University of Southern California, where he focused the entirety of his graduate work on nanotechnology-related projects.
+                    </p>
                   </div>
                 </div>
                 <hr class='hr-half'>
